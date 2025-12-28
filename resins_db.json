@@ -78,7 +78,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -159,7 +160,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -240,7 +242,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -321,7 +324,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -402,7 +406,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -483,7 +488,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -564,7 +570,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -645,7 +652,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -726,7 +734,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -807,7 +816,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -888,7 +898,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -969,7 +980,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -1050,7 +1062,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -1131,7 +1144,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -1212,7 +1226,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -1293,7 +1308,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -1374,7 +1390,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -1454,7 +1471,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -1532,7 +1550,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -1610,7 +1629,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -1688,7 +1708,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -1768,7 +1789,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -1846,7 +1868,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -1924,7 +1947,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -2002,7 +2026,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -2080,7 +2105,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -2158,7 +2184,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -2236,7 +2263,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -2314,7 +2342,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -2392,7 +2421,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -2470,7 +2500,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -2548,7 +2579,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -2626,7 +2658,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -2704,7 +2737,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -2782,7 +2816,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -2860,7 +2895,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -2938,7 +2974,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -3016,7 +3053,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -3093,7 +3131,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -3170,7 +3209,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -3247,7 +3287,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -3324,7 +3365,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -3401,7 +3443,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -3479,7 +3522,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -3558,7 +3602,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -3636,7 +3681,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -3715,7 +3761,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -3792,7 +3839,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -3870,7 +3918,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -3948,7 +3997,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -4026,7 +4076,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -4104,7 +4155,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -4181,7 +4233,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -4258,7 +4311,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -4336,7 +4390,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -4415,7 +4470,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -4493,7 +4549,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -4571,7 +4628,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -4649,7 +4707,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -4726,7 +4785,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -4803,7 +4863,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -4880,12 +4941,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen Aqua 8K 3D Printing Resin\n (28)",
-        "image": "//phrozen3d.com/cdn/shop/products/Aqua-Gray8K_1400x1600_4.png?v=1669076741&width=1400",
+        "image": "images/resins/phrozen_phrozen_aqua_8k_3d_printing_resin_28.png",
         "type": "Standard",
         "description": null,
         "color": "#808080",
@@ -4957,12 +5019,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen Aqua 4K 3D Printing Resin\n(1)",
-        "image": "//phrozen3d.com/cdn/shop/products/AquaGray4K_1400x1600_4.png?v=1669076810&width=1400",
+        "image": "images/resins/phrozen_phrozen_aqua_4k_3d_printing_resin_1.png",
         "type": "Standard",
         "description": null,
         "color": "#808080",
@@ -5034,12 +5097,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen RPG 3D Printing Resin",
-        "image": "//phrozen3d.com/cdn/shop/files/Product_1400x1600_beaa8f8b-47f1-46b2-a475-8c5283fc2e27.webp?v=1744852868&width=1400",
+        "image": "images/resins/phrozen_phrozen_rpg_3d_printing_resin.webp",
         "type": "Standard",
         "description": null,
         "color": "#808080",
@@ -5111,12 +5175,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen Aqua Hyperfine 3D Printing Resin\n(3)",
-        "image": "//phrozen3d.com/cdn/shop/products/AquaHyperfineGraphite_1400x1600_4.png?v=1705919119&width=1400",
+        "image": "images/resins/phrozen_phrozen_aqua_hyperfine_3d_printing_resin_3.png",
         "type": "Standard",
         "description": null,
         "color": "#808080",
@@ -5188,7 +5253,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
@@ -5424,7 +5490,7 @@
     {
         "brand": "Phrozen",
         "name": "Phrozen Neon Resin 3D Printing Resin",
-        "image": "//phrozen3d.com/cdn/shop/files/Bundle-1400x1600.png?v=1695780507&width=1400",
+        "image": "images/resins/phrozen_phrozen_neon_resin_3d_printing_resin.png",
         "type": "Standard",
         "description": null,
         "color": "#808080",
@@ -5496,12 +5562,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen Speed 3D Printing Resin\n (9)",
-        "image": "//phrozen3d.com/cdn/shop/products/SpeedResin_1400x1600_4.png?v=1666935995&width=1400",
+        "image": "images/resins/phrozen_phrozen_speed_3d_printing_resin_9.png",
         "type": "Standard",
         "description": null,
         "color": "#808080",
@@ -5573,12 +5640,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen ABS-Like 3D Printing Resin\n (5)",
-        "image": "//phrozen3d.com/cdn/shop/products/MatteGray_1400x1600_4.png?v=1702191812&width=1400",
+        "image": "images/resins/phrozen_phrozen_abs_like_3d_printing_resin_5.png",
         "type": "ABS",
         "description": null,
         "color": "#808080",
@@ -5650,12 +5718,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen Aqua 3D Printing Resin\n (9)",
-        "image": "//phrozen3d.com/cdn/shop/files/Aqua-ClearPlus_1400x1600_4_d623194e-0ada-4d3b-80c5-9e5c08c652d7.png?v=1718697944&width=1400",
+        "image": "images/resins/phrozen_phrozen_aqua_3d_printing_resin_9.png",
         "type": "Standard",
         "description": null,
         "color": "#808080",
@@ -5727,12 +5796,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen Castable Resin W40 Orange",
-        "image": "//phrozen3d.com/cdn/shop/products/W40_Orange_500G_d954856e-5aab-4b06-9f95-236f8847dbb5.png?v=1669077039&width=1400",
+        "image": "images/resins/phrozen_phrozen_castable_resin_w40_orange.png",
         "type": "Castable",
         "description": null,
         "color": "#f97316",
@@ -5804,12 +5874,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen Castable Resin W20 Green",
-        "image": "//phrozen3d.com/cdn/shop/products/W20_Green_500G_688a4ad9-abb5-4c67-ab20-bba9b04abff1.png?v=1669077020&width=1400",
+        "image": "images/resins/phrozen_phrozen_castable_resin_w20_green.png",
         "type": "Castable",
         "description": null,
         "color": "#22c55e",
@@ -5881,12 +5952,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen Castable Jewelry 3D Printing Resin\n(1)",
-        "image": "//phrozen3d.com/cdn/shop/products/violet_1_1400x1600_3a94d37a-842d-460d-a917-1cbfbd78c21e.png?v=1669077086&width=1400",
+        "image": "images/resins/phrozen_phrozen_castable_jewelry_3d_printing_resin_1.png",
         "type": "Castable",
         "description": null,
         "color": "#808080",
@@ -5958,12 +6030,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen AnyCast Jewelry 3D Printing Resin",
-        "image": "//phrozen3d.com/cdn/shop/files/Jewelry_Castable_AnyCast_Green_1400x1600_01.png?v=1762408198&width=1400",
+        "image": "images/resins/phrozen_phrozen_anycast_jewelry_3d_printing_resin.png",
         "type": "Standard",
         "description": null,
         "color": "#808080",
@@ -6035,12 +6108,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen Ceramic Pro 3D Printing Resin",
-        "image": "//phrozen3d.com/cdn/shop/files/BASF_Ceramic_Pro_White_500g_1400x1600_4_a10dc43e-c6c3-479c-97d3-3425d0ef2aa6.png?v=1765767196&width=1400",
+        "image": "images/resins/phrozen_phrozen_ceramic_pro_3d_printing_resin.png",
         "type": "Standard",
         "description": null,
         "color": "#808080",
@@ -6112,12 +6186,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen Tough 100E 3D Printing Resin",
-        "image": "//phrozen3d.com/cdn/shop/files/Tough-100E_Black_1400x1600_1_f06d67ef-c652-45e0-a3ea-5133a93a5585.png?v=1733299446&width=1400",
+        "image": "images/resins/phrozen_phrozen_tough_100e_3d_printing_resin.png",
         "type": "Tough",
         "description": null,
         "color": "#808080",
@@ -6189,12 +6264,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen EL400 Elastomer Resin 3D Printing Resin",
-        "image": "//phrozen3d.com/cdn/shop/files/ElastomerEL400_1400x1600_1.png?v=1721700873&width=1400",
+        "image": "images/resins/phrozen_phrozen_el400_elastomer_resin_3d_printing_resin.png",
         "type": "Standard",
         "description": null,
         "color": "#808080",
@@ -6266,12 +6342,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen Flame Retardant, FR940 3D Printing Resin",
-        "image": "//phrozen3d.com/cdn/shop/files/FireRetardantFR940_1400x1600_4_954345e6-23b0-476e-affd-ded150701d95.png?v=1700457407&width=1400",
+        "image": "images/resins/phrozen_phrozen_flame_retardant_fr940_3d_printing_resin.png",
         "type": "Standard",
         "description": null,
         "color": "#808080",
@@ -6343,12 +6420,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen Rigid PC/GF-like 3D Printing Resin",
-        "image": "//phrozen3d.com/cdn/shop/files/RigidPCGF-likeBlack_1400x1600_4.png?v=1699596399&width=1400",
+        "image": "images/resins/phrozen_phrozen_rigid_pcgf_like_3d_printing_resin.png",
         "type": "Standard",
         "description": null,
         "color": "#808080",
@@ -6420,12 +6498,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen Tough: ABS-like+ 3D Printing Resin",
-        "image": "//phrozen3d.com/cdn/shop/files/ToughABS-like_Gray_1400x1600_4.png?v=1699596087&width=1400",
+        "image": "images/resins/phrozen_phrozen_tough_abs_like_3d_printing_resin.png",
         "type": "ABS",
         "description": null,
         "color": "#808080",
@@ -6497,12 +6576,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen Ceramic White 3D Printing Resin\n (4)",
-        "image": "//phrozen3d.com/cdn/shop/files/Product_1400x1600_1.webp?v=1753077007&width=1400",
+        "image": "images/resins/phrozen_phrozen_ceramic_white_3d_printing_resin_4.webp",
         "type": "Standard",
         "description": null,
         "color": "#ffffff",
@@ -6574,12 +6654,13 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Phrozen",
         "name": "Phrozen ONYX Impact Plus 3D Printing Resin\n (8)",
-        "image": "//phrozen3d.com/cdn/shop/products/OnyxImpactPlus_1400x1600_01_ed0d73f5-bf76-41d9-9390-71ea4244f652.png?v=1666945576&width=1400",
+        "image": "images/resins/phrozen_phrozen_onyx_impact_plus_3d_printing_resin_8.png",
         "type": "Standard",
         "description": null,
         "color": "#808080",
@@ -6651,7 +6732,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Sunlu",
@@ -6728,7 +6810,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Sunlu",
@@ -6805,7 +6888,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Sunlu",
@@ -6882,7 +6966,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Sunlu",
@@ -6959,7 +7044,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Sunlu",
@@ -7036,7 +7122,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Sunlu",
@@ -7113,7 +7200,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Creality",
@@ -7190,7 +7278,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Creality",
@@ -7267,7 +7356,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Creality",
@@ -7344,7 +7434,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Creality",
@@ -7421,7 +7512,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Creality",
@@ -7498,7 +7590,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Creality",
@@ -7575,7 +7668,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Creality",
@@ -7652,7 +7746,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Monocure 3D",
@@ -7729,7 +7824,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Monocure 3D",
@@ -7806,7 +7902,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Monocure 3D",
@@ -7883,7 +7980,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Monocure 3D",
@@ -7960,7 +8058,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "eSUN",
@@ -8037,7 +8136,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "eSUN",
@@ -8114,7 +8214,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "eSUN",
@@ -8191,7 +8292,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "eSUN",
@@ -8268,7 +8370,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "eSUN",
@@ -8345,7 +8448,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "AmeraLabs",
@@ -8422,7 +8526,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "AmeraLabs",
@@ -8499,7 +8604,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "AmeraLabs",
@@ -8576,6 +8682,7 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     }
 ]
