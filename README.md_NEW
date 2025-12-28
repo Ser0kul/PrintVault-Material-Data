@@ -1,0 +1,27 @@
+# PrintVault Material Data 🛡️
+
+Este repositorio contiene la base de datos automatizada de materiales (resinas y filamentos) para **PrintVault**.
+
+## 🚀 Automatización
+Los datos se actualizan automáticamente cada **domingo a las 00:00 UTC** mediante GitHub Actions. El proceso incluye:
+1. Scraping de las principales marcas del mercado.
+2. Limpieza y validación de productos.
+3. Inyección de perfiles de impresión optimizados.
+4. **Persistencia de Imágenes**: Descarga y almacenamiento local de fotos de productos para evitar enlaces rotos.
+
+## 📁 Estructura
+- `resins_db.json`: Catálogo completo de resinas 3D.
+- `filaments_db.json`: Catálogo completo de filamentos 3D.
+- `/images`: Almacén local de miniaturas de productos.
+- `scraper.py`: El código fuente del motor de búsqueda.
+
+## 🛠️ Integración
+Para consumir estos datos en PrintVault o cualquier otra aplicación:
+- **JSON**: `https://raw.githubusercontent.com/[USER]/PrintVault-Material-Data/main/resins_db.json`
+- **Imágenes**: Las rutas en el JSON son relativas (ej. `images/resins/brand_name.jpg`). Deben prefijarse con la URL base del repositorio raw.
+
+## 🤝 Contribuciones
+Para añadir una nueva marca o corregir datos, por favor abre un Issue o un Pull Request modificando `scraper.py` o los perfiles sugeridos.
+
+---
+Generado automáticamente por **PrintVault Scraper Engine**.

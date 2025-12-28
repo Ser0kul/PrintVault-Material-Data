@@ -1,0 +1,52 @@
+﻿============================================================
+Material Database Scraper v2.0
+============================================================
+
+Scraping 9 resin brands...
+  Anycubic... Found 22
+  ELEGOO... Found 21
+  Phrozen... Found 0
+  Siraya Tech... Found 0
+  Sunlu... Found 0
+  Creality...     [Shopify] HTTP 404 for https://store.creality.com/collections/resin/products.json?limit=250
+Found 0
+  Monocure 3D...     [Shopify] HTTP 404 for https://monocure3d.com.au/collections/resin/products.json?limit=250
+Found 0
+  AmeraLabs...     [Shopify] HTTP 404 for https://ameralabs.com/collections/resins/products.json?limit=250
+Found 0
+  eSUN...     [HTML] HTTP 404 for https://www.esun3d.com/eresins-product/
+Found 0
+Total resins: 43
+  Merged: 0 new items added to 102 total
+Saved to C:\Users\ricar\Desktop\AntiG\tools\material-scraper\..\..\src\data\resins_db.json
+
+Scraping 15 filament brands...
+  Anycubic... Found 0
+  ELEGOO... Found 25
+  Creality...     [Shopify] HTTP 404 for https://store.creality.com/collections/filament/products.json?limit=250
+Found 0
+  Sunlu... Found 0
+  Fillamentum...     [Shopify] HTTP 404 for https://fillamentum.com/collections/filaments/products.json?limit=250
+Found 0
+  Overture... Found 0
+  Eryone... Found 58
+  Polymaker... Found 100
+  Hatchbox... Found 250
+  Fiberlogy...     [Shopify] Request error: Expecting value: line 2 column 1 (char 1)
+Found 0
+  ColorFabb...     [Shopify] HTTP 404 for https://colorfabb.com/collections/all/products.json?limit=250
+Found 0
+  NinjaTek...     [Shopify] HTTP 404 for https://ninjatek.com/collections/all/products.json?limit=250
+Found 0
+  Bambu Lab...     [Shopify] HTTP 404 for https://us.store.bambulab.com/collections/filament/products.json?limit=250
+Found 0
+  Prusament... Found 0
+  eSUN...     [HTML] HTTP 404 for https://www.esun3d.com/pla-series/
+Found 0
+Total filaments: 433
+  Merged: 0 new items added to 448 total
+Saved to C:\Users\ricar\Desktop\AntiG\tools\material-scraper\..\..\src\data\filaments_db.json
+
+============================================================
+Done!
+============================================================
