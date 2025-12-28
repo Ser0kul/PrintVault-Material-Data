@@ -24,12 +24,16 @@ def download_image(url: str, category: str, brand: str, name: str, output_root: 
     if not url or url.startswith('data:'):
         return None
 
+    # Normalizar URLs que empiezan con // (protocol-relative)
+    if url.startswith('//'):
+        url = 'https:' + url
+
     # Limpiar y preparar carpetas
     category = "resins" if "resin" in category.lower() else "filaments"
     brand_slug = slugify(brand)
     name_slug = slugify(name)
     
-    # Intentar detectar extensión de la URL
+    # Intentar detectar extensiÃ³n de la URL
     ext = url.split('.')[-1].split('?')[0].lower()
     if ext not in ['jpg', 'jpeg', 'png', 'webp', 'avif']:
         ext = 'jpg' # Default
@@ -55,6 +59,6 @@ def download_image(url: str, category: str, brand: str, name: str, output_root: 
         else:
             print(f"Error descargando imagen {url}: Status {response.status_code}")
     except Exception as e:
-        print(f"Excepción descargando imagen {url}: {str(e)}")
+        print(f"ExcepciÃ³n descargando imagen {url}: {str(e)}")
         
     return None
