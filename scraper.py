@@ -594,7 +594,7 @@ def main():
     do_resins = args.resins or (not args.resins and not args.filaments)
     do_filaments = args.filaments or (not args.resins and not args.filaments)
     
-    output_dir = os.path.join(os.path.dirname(__file__), "..", "..", "src", "data")
+    output_dir = os.path.dirname(os.path.abspath(__file__))
     repo_root = os.path.dirname(os.path.abspath(__file__)) # For the new repo, this will be the root
     
     print("=" * 60)
