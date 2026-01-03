@@ -12,6 +12,7 @@ import sys
 import os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from utils.headers import JSON_HEADERS
+from utils.text_cleaner import clean_html_to_text
 
 
 def get_shopify_json_url(base_url: str) -> str:
@@ -189,7 +190,7 @@ def scrape_shopify(base_url: str, brand: str = "Unknown", product_category: str 
                     "color_name": color_name,
                     "price": price,
                     "tags": tags[:5] if tags else [material_type],
-                    "description": p.get("body_html", "")[:200] if p.get("body_html") else None,
+                    "description": clean_html_to_text(p.get("body_html", ""), max_length=500),
                     "url": f"{base_clean.split('/collections')[0]}/products/{p.get('handle')}",
                     "fuente_datos": "shopify_api"
                 })

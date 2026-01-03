@@ -107,12 +107,20 @@ def scrape_html(
                 elif href.startswith("http"):
                     product_url = href
             
+            # Description - try meta description from product page or description element
+            description = None
+            desc_el = card.select_one(".product-description, .description, [data-product-description], .short-description")
+            if desc_el:
+                from utils.text_cleaner import clean_html_to_text
+                description = clean_html_to_text(str(desc_el), max_length=500)
+            
             results.append({
                 "brand": brand,
                 "name": name,
                 "image": image_url,
                 "price": price,
                 "url": product_url,
+                "description": description,
                 "fuente_datos": "html_scrape"
             })
         
