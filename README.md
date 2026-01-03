@@ -84,6 +84,10 @@ python generate_db.py --dry-run
 
 Incluye: propiedades físicas, comerciales, certificaciones, perfiles de impresión.
 
+- **Auditoría de Imágenes**:
+  - `image_status`: `ok` (verificada), `placeholder` (generada localmente), `blocked` (protegida), `missing` (no encontrada).
+  - `image_source`: `shopify` (oficial), `api` (oficial), `playwright` (scrape), `manual` (fallback).
+
 ### Schema Simple (compatible con frontend actual)
 
 Convierte automáticamente con `resina_to_simple_schema()` o `filamento_to_simple_schema()`.

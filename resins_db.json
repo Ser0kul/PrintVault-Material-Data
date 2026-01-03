@@ -79,7 +79,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -161,7 +163,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -243,7 +247,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -325,7 +331,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -407,7 +415,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -489,7 +499,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -571,7 +583,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -653,7 +667,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -735,7 +751,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -817,7 +835,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -899,7 +919,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -981,7 +1003,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -1063,7 +1087,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -1145,7 +1171,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -1227,7 +1255,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -1309,7 +1339,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Anycubic",
@@ -1391,7 +1423,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -1472,7 +1506,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -1551,7 +1587,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -1630,7 +1668,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -1709,7 +1749,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -1790,7 +1832,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -1869,7 +1913,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -1948,7 +1994,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -2027,7 +2075,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -2106,7 +2156,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -2185,7 +2237,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -2264,7 +2318,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -2343,7 +2399,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -2422,7 +2480,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -2501,7 +2561,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -2580,7 +2642,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -2659,7 +2723,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -2738,7 +2804,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -2817,7 +2885,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -2896,7 +2966,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -2975,7 +3047,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "ELEGOO",
@@ -3054,7 +3128,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -3132,7 +3208,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -3210,7 +3288,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -3288,7 +3368,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -3366,7 +3448,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -3444,7 +3528,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -3523,7 +3609,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -3603,7 +3691,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -3682,7 +3772,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -3762,7 +3854,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -3840,7 +3934,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -3919,7 +4015,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -3998,7 +4096,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -4077,7 +4177,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -4156,7 +4258,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -4234,7 +4338,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -4312,7 +4418,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -4391,7 +4499,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -4471,7 +4581,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -4550,7 +4662,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -4629,7 +4743,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -4708,7 +4824,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -4786,7 +4904,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -4864,7 +4984,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Siraya Tech",
@@ -4942,7 +5064,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -5020,7 +5144,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -5098,7 +5224,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -5176,7 +5304,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -5254,7 +5384,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -5331,7 +5463,9 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -5408,7 +5542,9 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -5485,7 +5621,9 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -5563,7 +5701,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -5641,7 +5781,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -5719,7 +5861,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -5797,7 +5941,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -5875,7 +6021,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -5953,7 +6101,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -6031,7 +6181,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -6109,7 +6261,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -6187,7 +6341,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -6265,7 +6421,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -6343,7 +6501,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -6421,7 +6581,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -6499,7 +6661,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -6577,7 +6741,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -6655,7 +6821,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Phrozen",
@@ -6733,7 +6901,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Sunlu",
@@ -6811,7 +6981,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Sunlu",
@@ -6889,7 +7061,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Sunlu",
@@ -6967,7 +7141,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Sunlu",
@@ -7045,7 +7221,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Sunlu",
@@ -7123,7 +7301,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Sunlu",
@@ -7201,7 +7381,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Creality",
@@ -7279,7 +7461,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Creality",
@@ -7357,7 +7541,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Creality",
@@ -7435,7 +7621,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Creality",
@@ -7513,7 +7701,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Creality",
@@ -7591,7 +7781,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Creality",
@@ -7669,7 +7861,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Creality",
@@ -7747,12 +7941,14 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "Monocure 3D",
         "name": "RAPID Resin",
-        "image": "images/resins/monocure_3d_rapid_resin.jpg",
+        "image": null,
         "type": "Standard",
         "description": "Fast-curing resin ideal for quick prototyping with excellent detail reproduction.",
         "color": "#808080",
@@ -7825,12 +8021,14 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "placeholder",
+        "image_source": "manual"
     },
     {
         "brand": "Monocure 3D",
         "name": "TENACIOUS Resin",
-        "image": "images/resins/monocure_3d_tenacious_resin.jpg",
+        "image": null,
         "type": "Standard",
         "description": "Flexible and tough resin with excellent impact resistance. Good for functional parts.",
         "color": "#808080",
@@ -7903,12 +8101,14 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "placeholder",
+        "image_source": "manual"
     },
     {
         "brand": "Monocure 3D",
         "name": "Standard Resin",
-        "image": "images/resins/monocure_3d_standard_resin.jpg",
+        "image": null,
         "type": "Standard",
         "description": "All-purpose resin with balanced properties for general printing needs.",
         "color": "#808080",
@@ -7981,12 +8181,14 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "placeholder",
+        "image_source": "manual"
     },
     {
         "brand": "Monocure 3D",
         "name": "Gunmetal Grey Resin",
-        "image": "images/resins/monocure_3d_gunmetal_grey_resin.jpg",
+        "image": null,
         "type": "Standard",
         "description": "Premium grey resin with metallic finish for display models.",
         "color": "#808080",
@@ -8059,7 +8261,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "placeholder",
+        "image_source": "manual"
     },
     {
         "brand": "eSUN",
@@ -8137,7 +8341,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "eSUN",
@@ -8215,7 +8421,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "eSUN",
@@ -8293,7 +8501,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "eSUN",
@@ -8371,7 +8581,9 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "eSUN",
@@ -8449,12 +8661,14 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "ok",
+        "image_source": "manual"
     },
     {
         "brand": "AmeraLabs",
         "name": "XV Light",
-        "image": "images/resins/ameralabs_xv_light.jpg",
+        "image": null,
         "type": "Standard",
         "description": "Premium 3D printing resin optimized for high-detail miniatures and figurines.",
         "color": "#808080",
@@ -8527,12 +8741,14 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "placeholder",
+        "image_source": "manual"
     },
     {
         "brand": "AmeraLabs",
         "name": "DMD-31 Dental Model",
-        "image": "images/resins/ameralabs_dmd_31_dental_model.jpg",
+        "image": null,
         "type": "Standard",
         "description": "Professional dental model resin for accurate dental models and aligners.",
         "color": "#808080",
@@ -8605,12 +8821,14 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "placeholder",
+        "image_source": "manual"
     },
     {
         "brand": "AmeraLabs",
         "name": "DMD-21 Dental Model",
-        "image": "images/resins/ameralabs_dmd_21_dental_model.jpg",
+        "image": null,
         "type": "Standard",
         "description": "Entry-level dental model resin for orthodontic and prosthodontic applications.",
         "color": "#808080",
@@ -8683,6 +8901,8 @@
                 "retractSpeed1": 180
             }
         },
-        "params": null
+        "params": null,
+        "image_status": "placeholder",
+        "image_source": "manual"
     }
 ]
