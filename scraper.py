@@ -35,14 +35,24 @@ def scrape_manual(config: Dict) -> List[Dict]:
     brand = config.get("brand")
     default_image = config.get("default_image", "https://placehold.co/600x600/1a1a1a/cccccc?text=No+Image")
     
-    for name in config.get("products", []):
-         products.append({
-             "brand": brand,
-             "name": name,
-             "type": "Standard",
-             "image": default_image,
-             "fuente_datos": "manual_curated"
-         })
+    for item in config.get("products", []):
+        if isinstance(item, dict):
+            name = item.get("name", "Unknown")
+            description = item.get("description")
+            image = item.get("image", default_image)
+        else:
+            name = str(item)
+            description = None
+            image = default_image
+
+        products.append({
+            "brand": brand,
+            "name": name,
+            "type": "Standard",
+            "image": image,
+            "description": description,
+            "fuente_datos": "manual_curated"
+        })
     return products
 
 # Global Blacklist for Resins
@@ -192,21 +202,36 @@ RESIN_BRANDS = [
         "strategy": "manual",
         "scraping_mode": "manual_curated",
         "last_verified": "2025-12-27",
-        "products": ["RAPID Resin", "TENACIOUS Resin", "Standard Resin", "Gunmetal Grey Resin"]
+        "products": [
+            {"name": "RAPID Resin", "description": "Fast-curing resin ideal for quick prototyping with excellent detail reproduction.", "image": "images/resins/monocure_3d_rapid_resin.jpg"},
+            {"name": "TENACIOUS Resin", "description": "Flexible and tough resin with excellent impact resistance. Good for functional parts.", "image": "images/resins/monocure_3d_tenacious_resin.jpg"},
+            {"name": "Standard Resin", "description": "All-purpose resin with balanced properties for general printing needs.", "image": "images/resins/monocure_3d_standard_resin.jpg"},
+            {"name": "Gunmetal Grey Resin", "description": "Premium grey resin with metallic finish for display models.", "image": "images/resins/monocure_3d_gunmetal_grey_resin.jpg"}
+        ]
     },
     {
         "brand": "eSUN",
         "strategy": "manual",
         "scraping_mode": "manual_curated",
         "last_verified": "2025-12-27",
-        "products": ["General Purpose Resin", "Water Washable Resin", "ABS-Like Resin", "Plant-based Resin", "Standard Resin"]
+        "products": [
+            {"name": "General Purpose Resin", "description": "Standard UV-curing resin for everyday printing. Good detail and easy to use.", "image": "images/resins/esun_general_purpose_resin.jpg"},
+            {"name": "Water Washable Resin", "description": "Clean with water instead of alcohol. Convenient and eco-friendly option.", "image": "images/resins/esun_water_washable_resin.jpg"},
+            {"name": "ABS-Like Resin", "description": "High toughness resin with ABS-like mechanical properties for functional parts.", "image": "images/resins/esun_abs_like_resin.jpg"},
+            {"name": "Plant-based Resin", "description": "Eco-friendly resin made from plant-derived materials with low odor.", "image": "images/resins/esun_plant_based_resin.jpg"},
+            {"name": "Standard Resin", "description": "Classic UV-curing resin for general use. Good surface finish and detail.", "image": "images/resins/esun_standard_resin.jpg"}
+        ]
     },
     {
         "brand": "AmeraLabs",
         "strategy": "manual",
         "scraping_mode": "manual_curated",
         "last_verified": "2025-12-27",
-        "products": ["AMD-3 LED", "TGM-7 LED", "XV Light", "DMD-31 Dental Model", "DMD-21 Dental Model"]
+        "products": [
+            {"name": "XV Light", "description": "Premium 3D printing resin optimized for high-detail miniatures and figurines.", "image": "images/resins/ameralabs_xv_light.jpg"},
+            {"name": "DMD-31 Dental Model", "description": "Professional dental model resin for accurate dental models and aligners.", "image": "images/resins/ameralabs_dmd_31_dental_model.jpg"},
+            {"name": "DMD-21 Dental Model", "description": "Entry-level dental model resin for orthodontic and prosthodontic applications.", "image": "images/resins/ameralabs_dmd_21_dental_model.jpg"}
+        ]
     }
 ]
 

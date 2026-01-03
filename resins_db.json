@@ -7754,7 +7754,7 @@
         "name": "RAPID Resin",
         "image": "images/resins/monocure_3d_rapid_resin.jpg",
         "type": "Standard",
-        "description": null,
+        "description": "Fast-curing resin ideal for quick prototyping with excellent detail reproduction.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -7832,7 +7832,7 @@
         "name": "TENACIOUS Resin",
         "image": "images/resins/monocure_3d_tenacious_resin.jpg",
         "type": "Standard",
-        "description": null,
+        "description": "Flexible and tough resin with excellent impact resistance. Good for functional parts.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -7910,7 +7910,7 @@
         "name": "Standard Resin",
         "image": "images/resins/monocure_3d_standard_resin.jpg",
         "type": "Standard",
-        "description": null,
+        "description": "All-purpose resin with balanced properties for general printing needs.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -7988,7 +7988,7 @@
         "name": "Gunmetal Grey Resin",
         "image": "images/resins/monocure_3d_gunmetal_grey_resin.jpg",
         "type": "Standard",
-        "description": null,
+        "description": "Premium grey resin with metallic finish for display models.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -8066,7 +8066,7 @@
         "name": "General Purpose Resin",
         "image": "images/resins/esun_general_purpose_resin.jpg",
         "type": "Standard",
-        "description": null,
+        "description": "Standard UV-curing resin for everyday printing. Good detail and easy to use.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -8144,7 +8144,7 @@
         "name": "Water Washable Resin",
         "image": "images/resins/esun_water_washable_resin.jpg",
         "type": "Standard",
-        "description": null,
+        "description": "Clean with water instead of alcohol. Convenient and eco-friendly option.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -8222,7 +8222,7 @@
         "name": "ABS-Like Resin",
         "image": "images/resins/esun_abs_like_resin.jpg",
         "type": "Standard",
-        "description": null,
+        "description": "High toughness resin with ABS-like mechanical properties for functional parts.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -8300,7 +8300,7 @@
         "name": "Plant-based Resin",
         "image": "images/resins/esun_plant_based_resin.jpg",
         "type": "Standard",
-        "description": null,
+        "description": "Eco-friendly resin made from plant-derived materials with low odor.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -8378,7 +8378,7 @@
         "name": "Standard Resin",
         "image": "images/resins/esun_standard_resin.jpg",
         "type": "Standard",
-        "description": null,
+        "description": "Classic UV-curing resin for general use. Good surface finish and detail.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -8456,7 +8456,7 @@
         "name": "XV Light",
         "image": "images/resins/ameralabs_xv_light.jpg",
         "type": "Standard",
-        "description": null,
+        "description": "Premium 3D printing resin optimized for high-detail miniatures and figurines.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -8534,7 +8534,7 @@
         "name": "DMD-31 Dental Model",
         "image": "images/resins/ameralabs_dmd_31_dental_model.jpg",
         "type": "Standard",
-        "description": null,
+        "description": "Professional dental model resin for accurate dental models and aligners.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -8612,7 +8612,7 @@
         "name": "DMD-21 Dental Model",
         "image": "images/resins/ameralabs_dmd_21_dental_model.jpg",
         "type": "Standard",
-        "description": null,
+        "description": "Entry-level dental model resin for orthodontic and prosthodontic applications.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
