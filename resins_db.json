@@ -1432,7 +1432,7 @@
         "name": "8K Standard Resin",
         "image": "images/resins/elegoo_8k_standard_resin.jpg",
         "type": "Standard",
-        "description": "\u3010Bright and Stunning Colors\u3011With high quality pigments and photo-initiators inside 8K photopolymer resin, the models printed with ELEGOO 8K standard photopolymer resin have a very pure and stunning color effect, just like an artwork. \u3010High Precision and Low Shrinkage\u3011Extensive tests are done to verify low volume shrinkage and high printing accuracy of the 8K standard photopolymer resins before they are released to the public.",
+        "description": "【Bright and Stunning Colors】With high quality pigments and photo-initiators inside 8K photopolymer resin, the models printed with ELEGOO 8K standard photopolymer resin have a very pure and stunning color effect, just like an artwork. 【High Precision and Low Shrinkage】Extensive tests are done to verify low volume shrinkage and high printing accuracy of the 8K standard photopolymer resins before they are released to the public.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -1515,7 +1515,7 @@
         "name": "Rapid Standard Resin",
         "image": "images/resins/elegoo_rapid_standard_resin.jpg",
         "type": "Standard",
-        "description": "ELEGOO RAPID Photopolymer Resin 405nm UV Curing Resin for LCD 3D Printers, Fast Curing, High Precision, Grey, 1KG \u3010High Fluidity and Low Viscosity\u3011Our RAPID 3D printer resin is formulated to provide high fluidity and low viscosity, with a viscosity as low as 60, which ensures that the resin can quickly reflow to the area between the model and release film, resulting in a smooth and efficient printing experience.",
+        "description": "ELEGOO RAPID Photopolymer Resin 405nm UV Curing Resin for LCD 3D Printers, Fast Curing, High Precision, Grey, 1KG 【High Fluidity and Low Viscosity】Our RAPID 3D printer resin is formulated to provide high fluidity and low viscosity, with a viscosity as low as 60, which ensures that the resin can quickly reflow to the area between the model and release film, resulting in a smooth and efficient printing experience.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -1596,7 +1596,7 @@
         "name": "Standard Resin",
         "image": "images/resins/elegoo_standard_resin.jpg",
         "type": "Standard",
-        "description": "\u3010Low Shrinkage and High Precision\u3011ELEGOO photopolymer resin is specially designed for reducing volume shrinkage during the Photocuring process, which ensures the high precision of the print model with a smooth finish. \u3010Fast Curing and Great Stability\u3011ELEGOO 405nm Rapid Resin was designed to significantly reduce printing time with its excellent fluidity. Meanwhile, its great stability and proper hardness guarantee a worry-free printing experience and successful printing.",
+        "description": "【Low Shrinkage and High Precision】ELEGOO photopolymer resin is specially designed for reducing volume shrinkage during the Photocuring process, which ensures the high precision of the print model with a smooth finish. 【Fast Curing and Great Stability】ELEGOO 405nm Rapid Resin was designed to significantly reduce printing time with its excellent fluidity. Meanwhile, its great stability and proper hardness guarantee a worry-free printing experience and successful printing.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -1677,7 +1677,7 @@
         "name": "Standard Resin V2.0",
         "image": "images/resins/elegoo_standard_resin_v20.jpg",
         "type": "Standard",
-        "description": "ELEGOO 3D Printer Resin 405nm UV Curing Standard Photopolymer Resin 2.0 for LCD 3D Printing, High Precision, Low Odor, 1000g \u3010High Precision Resin\u3011ELEGOO standard photopolymer resin has a strong anti-background light ability so that no excess resin is left on the surface of printed models, ensuring that each model is printed with a smooth surface finish, clear texture, and fine details. \u3010Low Volume Shrinkage\u3011Low shrinkage and good stability reduce volume shrinkage during the curing process.",
+        "description": "ELEGOO 3D Printer Resin 405nm UV Curing Standard Photopolymer Resin 2.0 for LCD 3D Printing, High Precision, Low Odor, 1000g 【High Precision Resin】ELEGOO standard photopolymer resin has a strong anti-background light ability so that no excess resin is left on the surface of printed models, ensuring that each model is printed with a smooth surface finish, clear texture, and fine details. 【Low Volume Shrinkage】Low shrinkage and good stability reduce volume shrinkage during the curing process.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -1758,7 +1758,7 @@
         "name": "8K Water-Washable Resin",
         "image": "images/resins/elegoo_8k_water_washable_resin.jpg",
         "type": "Standard",
-        "description": "ELEGOO 8K Water Washable Photopolymer Resin 405nm LCD UV-Curing Resin Best for Saturn 2 8K LCD 3D Printer Space Grey 1000G \u3010High Precision and Low Shrinkage\u3011Our research team conducts widespread researchs and tests to verify the low volume shrinkage and high accuracy of the 8K water-washable resins during the photocuring before releasing them to the public.",
+        "description": "ELEGOO 8K Water Washable Photopolymer Resin 405nm LCD UV-Curing Resin Best for Saturn 2 8K LCD 3D Printer Space Grey 1000G 【High Precision and Low Shrinkage】Our research team conducts widespread researchs and tests to verify the low volume shrinkage and high accuracy of the 8K water-washable resins during the photocuring before releasing them to the public.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -1922,7 +1922,7 @@
         "name": "Water-Washable Resin V2.0",
         "image": "images/resins/elegoo_water_washable_resin_v20.jpg",
         "type": "Standard",
-        "description": "\u3010Easy Cleaning & Post-Processing\u3011 Rinse away the hassle of post-processing. Simply rinse your prints under water, eliminating the need for harsh chemicals and complicated procedures. Enjoy an odor-free and simplified workflow that saves you time and effort. \u3010Superior Detail Reproduction\u3011 The water-washable resin 2.0 with low viscosity exhibits excellent fluidity, enabling it to effortlessly fill even the tiniest crevices.",
+        "description": "【Easy Cleaning & Post-Processing】 Rinse away the hassle of post-processing. Simply rinse your prints under water, eliminating the need for harsh chemicals and complicated procedures. Enjoy an odor-free and simplified workflow that saves you time and effort. 【Superior Detail Reproduction】 The water-washable resin 2.0 with low viscosity exhibits excellent fluidity, enabling it to effortlessly fill even the tiniest crevices.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -2084,7 +2084,7 @@
         "name": "ABS-Like Resin",
         "image": "images/resins/elegoo_abs_like_resin.jpg",
         "type": "ABS",
-        "description": "\u3010Low Shrinkage and High Precision\u3011ELEGOO photopolymer resin is specially designed for reducing volume shrinkage during the Photocuring process, which ensures the high precision of the print model with a smooth finish. \u3010Fast Curing and Great Stability\u3011ELEGOO 405nm Rapid Resin was designed to significantly reduce printing time with its excellent fluidity. Meanwhile, its great stability and proper hardness guarantee a worry-free printing experience and successful printing.",
+        "description": "【Low Shrinkage and High Precision】ELEGOO photopolymer resin is specially designed for reducing volume shrinkage during the Photocuring process, which ensures the high precision of the print model with a smooth finish. 【Fast Curing and Great Stability】ELEGOO 405nm Rapid Resin was designed to significantly reduce printing time with its excellent fluidity. Meanwhile, its great stability and proper hardness guarantee a worry-free printing experience and successful printing.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -2165,7 +2165,7 @@
         "name": "ABS-Like Resin V2.0",
         "image": "images/resins/elegoo_abs_like_resin_v20.jpg",
         "type": "ABS",
-        "description": "ELEGOO ABS-Like 3D Printer Resin 2.0, 405nm UV-Curing Photopolymer Resin for LCD 3D Printing, High Precision, Good Toughness, 1000g \u3010 Low Shrinkage & High Precision \u3011 With low volume shrinkage to keep the 3D prints dimensionally stable during the photocuring process, ELEGOO ABS-like resin has a strong anti-background light ability with no excess resin left on the printed surface so that models have a smooth surface, fine details, and high strength.",
+        "description": "ELEGOO ABS-Like 3D Printer Resin 2.0, 405nm UV-Curing Photopolymer Resin for LCD 3D Printing, High Precision, Good Toughness, 1000g 【 Low Shrinkage & High Precision 】 With low volume shrinkage to keep the 3D prints dimensionally stable during the photocuring process, ELEGOO ABS-like resin has a strong anti-background light ability with no excess resin left on the printed surface so that models have a smooth surface, fine details, and high strength.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -2327,7 +2327,7 @@
         "name": "ABS-Like Resin V3.0+",
         "image": "images/resins/elegoo_abs_like_resin_v30.jpg",
         "type": "ABS",
-        "description": "\u3010Superior Heat Resistance, Build with Confidence\u3011ABS-like resin 3.0+ excels in heat resistance with a 10% higher heat deformation temperature than 3.0, ensuring your creations maintain their integrity under extreme heat. Say goodbye to worries of deformation and create confidently with superior durability and reliability in high-temperature conditions. \u3010Highly Impact-Resistant, Deformation-Free\u3011Engineered for unmatched strength and impact resistance, ABS-like resin 3.",
+        "description": "【Superior Heat Resistance, Build with Confidence】ABS-like resin 3.0+ excels in heat resistance with a 10% higher heat deformation temperature than 3.0, ensuring your creations maintain their integrity under extreme heat. Say goodbye to worries of deformation and create confidently with superior durability and reliability in high-temperature conditions. 【Highly Impact-Resistant, Deformation-Free】Engineered for unmatched strength and impact resistance, ABS-like resin 3.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -2732,7 +2732,7 @@
         "name": "Plant-Based Resin",
         "image": "images/resins/elegoo_plant_based_resin.jpg",
         "type": "PLA",
-        "description": "\u3010Low Shrinkage and High Precision\u3011ELEGOO photopolymer resin is specially designed for reducing volume shrinkage during the Photocuring process, which ensures the high precision of the print model with a smooth finish. \u3010Fast Curing and Great Stability\u3011ELEGOO 405nm Rapid Resin was designed to significantly reduce printing time with its excellent fluidity. Meanwhile, its great stability and proper hardness guarantee a worry-free printing experience and successful printing.",
+        "description": "【Low Shrinkage and High Precision】ELEGOO photopolymer resin is specially designed for reducing volume shrinkage during the Photocuring process, which ensures the high precision of the print model with a smooth finish. 【Fast Curing and Great Stability】ELEGOO 405nm Rapid Resin was designed to significantly reduce printing time with its excellent fluidity. Meanwhile, its great stability and proper hardness guarantee a worry-free printing experience and successful printing.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -2894,7 +2894,7 @@
         "name": "Standard Resin V2.0 Grey 10KG",
         "image": "images/resins/elegoo_standard_resin_v20_grey_10kg.jpg",
         "type": "Standard",
-        "description": "ELEGOO 3D Printer Resin 405nm UV Curing Standard Photopolymer Resin 2.0 for LCD 3D Printing, High Precision, Low Odor, Grey, 10KG \u3010High Precision Resin\u3011ELEGOO standard photopolymer resin has a strong anti-background light ability so that no excess resin is left on the surface of printed models, ensuring that each model is printed with a smooth surface finish, clear texture, and fine details. \u3010Low Volume Shrinkage\u3011Low shrinkage and good stability reduce volume shrinkage during the curing process.",
+        "description": "ELEGOO 3D Printer Resin 405nm UV Curing Standard Photopolymer Resin 2.0 for LCD 3D Printing, High Precision, Low Odor, Grey, 10KG 【High Precision Resin】ELEGOO standard photopolymer resin has a strong anti-background light ability so that no excess resin is left on the surface of printed models, ensuring that each model is printed with a smooth surface finish, clear texture, and fine details. 【Low Volume Shrinkage】Low shrinkage and good stability reduce volume shrinkage during the curing process.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -2975,7 +2975,7 @@
         "name": "Water-washable Resin Grey 10KG",
         "image": "images/resins/elegoo_water_washable_resin_grey_10kg.jpg",
         "type": "Standard",
-        "description": "ELEGOO Water-Washable 3D Printer Resin, Rapid Resin 405nm LCD UV-Curing Standard Photopolymer Resin for LCD 3D Printer, Grey, 10KG \u3010Water Washable, no IPA Needed\u3011 Instead of using IPA to clean up the prints, you can use tap water to wash the prints, save your money on IPA. ELEGOO 3D resin is formulated with high-quality pigments and photoinitiators, so that each model printed has beautiful color display just like an artwork.",
+        "description": "ELEGOO Water-Washable 3D Printer Resin, Rapid Resin 405nm LCD UV-Curing Standard Photopolymer Resin for LCD 3D Printer, Grey, 10KG 【Water Washable, no IPA Needed】 Instead of using IPA to clean up the prints, you can use tap water to wash the prints, save your money on IPA. ELEGOO 3D resin is formulated with high-quality pigments and photoinitiators, so that each model printed has beautiful color display just like an artwork.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -3056,7 +3056,7 @@
         "name": "ABS-like Resin V2.0 Grey 10KG",
         "image": "images/resins/elegoo_abs_like_resin_v20_grey_10kg.jpg",
         "type": "ABS",
-        "description": "ELEGOO ABS-Like 3D Printer Resin 2.0, 405nm UV-Curing Photopolymer Resin for LCD 3D Printing, High Precision, Good Toughness, Grey, 10KG \u3010 Low Shrinkage & High Precision \u3011 With low volume shrinkage to keep the 3D prints dimensionally stable during the photocuring process, ELEGOO ABS-like resin has a strong anti-background light ability with no excess resin left on the printed surface so that models have a smooth surface, fine details, and high strength.",
+        "description": "ELEGOO ABS-Like 3D Printer Resin 2.0, 405nm UV-Curing Photopolymer Resin for LCD 3D Printing, High Precision, Good Toughness, Grey, 10KG 【 Low Shrinkage & High Precision 】 With low volume shrinkage to keep the 3D prints dimensionally stable during the photocuring process, ELEGOO ABS-like resin has a strong anti-background light ability with no excess resin left on the printed surface so that models have a smooth surface, fine details, and high strength.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -3457,7 +3457,7 @@
         "name": "Rebound 55A -  Fast-Rebound 3D Printing Resin",
         "image": "images/resins/siraya_tech_rebound_55a_fast_rebound_3d_printing_resin.jpg",
         "type": "Standard",
-        "description": "Fast-Rebounding & Flexible \u2013 Designed for quick shape recovery and impact absorption. 55A Shore Hardness \u2013 Softer than Tenacious Flex, with excellent elasticity. Broad Compatibility \u2013 Works with most 405nm LCD and DLP 3D printers. Professional Black Finish \u2013 Ideal for both prototyping and functional parts.",
+        "description": "Fast-Rebounding & Flexible – Designed for quick shape recovery and impact absorption. 55A Shore Hardness – Softer than Tenacious Flex, with excellent elasticity. Broad Compatibility – Works with most 405nm LCD and DLP 3D printers. Professional Black Finish – Ideal for both prototyping and functional parts.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -4186,7 +4186,7 @@
         "name": "Siraya Tech Magna Durable Resin",
         "image": "images/resins/siraya_tech_siraya_tech_magna_durable_resin.jpg",
         "type": "Standard",
-        "description": "Engineered for Toughness & Detail \u2013 Combines strength and precision for printing mechanical parts, detailed miniatures, and robust prototypes. Impact-Resistant & Wear-Ready \u2013 Stands up to drops, bending, and everyday use without cracking or deforming. Smooth, Reliable Prints \u2013 Compatible with most LCD/MSLA printers, including large-format and desktop models, with strong layer adhesion and minimal print failure.",
+        "description": "Engineered for Toughness & Detail – Combines strength and precision for printing mechanical parts, detailed miniatures, and robust prototypes. Impact-Resistant & Wear-Ready – Stands up to drops, bending, and everyday use without cracking or deforming. Smooth, Reliable Prints – Compatible with most LCD/MSLA printers, including large-format and desktop models, with strong layer adhesion and minimal print failure.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -4267,7 +4267,7 @@
         "name": "Siraya Tech Platinum Silicone - Defiant 15",
         "image": "images/resins/siraya_tech_siraya_tech_platinum_silicone_defiant_15.jpg",
         "type": "PLA",
-        "description": "\u3010Exceptional Curing Inhibition Resistance\u3011Defiant 15 enhances resistance against UV resin curing inhibition, outperforming traditional silicones. Submerge parts in water for 30 minutes for perfect cures without clear coating, ideal for our Fast, Build, Blu, Easy and Sculpt resins. \u3010Strength and Durability\u3011Siraya Tech's Defiant 15 offers unmatched flexibility and tear resistance. It's reusable, provides cost-effective, durable casting, and withstands temperatures up to 200\u00b0C, ensuring longevity.",
+        "description": "【Exceptional Curing Inhibition Resistance】Defiant 15 enhances resistance against UV resin curing inhibition, outperforming traditional silicones. Submerge parts in water for 30 minutes for perfect cures without clear coating, ideal for our Fast, Build, Blu, Easy and Sculpt resins. 【Strength and Durability】Siraya Tech's Defiant 15 offers unmatched flexibility and tear resistance. It's reusable, provides cost-effective, durable casting, and withstands temperatures up to 200°C, ensuring longevity.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -4347,7 +4347,7 @@
         "name": "Siraya Tech Platinum Silicone - Defiant 25",
         "image": "images/resins/siraya_tech_siraya_tech_platinum_silicone_defiant_25.jpg",
         "type": "PLA",
-        "description": "\u3010Extra Resistance to Platinum Poisoning and Less Post-processing\u3011Siraya Tech Defiant 25 silicone mold-making kit is designed to be much more tolerant than common platinum silicone, but some resins are just better in terms of working with silicone and require a lot less post-processing. With just 30 minutes of curing the part submerged in water, Defiant 25 will cure without the part being clear coated. Our platinum silicone rubber can also be used with 3d printing UV resin.",
+        "description": "【Extra Resistance to Platinum Poisoning and Less Post-processing】Siraya Tech Defiant 25 silicone mold-making kit is designed to be much more tolerant than common platinum silicone, but some resins are just better in terms of working with silicone and require a lot less post-processing. With just 30 minutes of curing the part submerged in water, Defiant 25 will cure without the part being clear coated. Our platinum silicone rubber can also be used with 3d printing UV resin.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -7948,7 +7948,7 @@
     {
         "brand": "Monocure 3D",
         "name": "RAPID Resin",
-        "image": null,
+        "image": "images/resins/monocure_3d_rapid_resin.jpg",
         "type": "Standard",
         "description": "Fast-curing resin ideal for quick prototyping with excellent detail reproduction.",
         "color": "#808080",
@@ -8028,7 +8028,7 @@
     {
         "brand": "Monocure 3D",
         "name": "TENACIOUS Resin",
-        "image": null,
+        "image": "images/resins/monocure_3d_tenacious_resin.jpg",
         "type": "Standard",
         "description": "Flexible and tough resin with excellent impact resistance. Good for functional parts.",
         "color": "#808080",
@@ -8108,7 +8108,7 @@
     {
         "brand": "Monocure 3D",
         "name": "Standard Resin",
-        "image": null,
+        "image": "images/resins/monocure_3d_standard_resin.jpg",
         "type": "Standard",
         "description": "All-purpose resin with balanced properties for general printing needs.",
         "color": "#808080",
@@ -8188,7 +8188,7 @@
     {
         "brand": "Monocure 3D",
         "name": "Gunmetal Grey Resin",
-        "image": null,
+        "image": "images/resins/monocure_3d_gunmetal_grey_resin.jpg",
         "type": "Standard",
         "description": "Premium grey resin with metallic finish for display models.",
         "color": "#808080",
@@ -8268,7 +8268,7 @@
     {
         "brand": "eSUN",
         "name": "General Purpose Resin",
-        "image": "https://lh3.googleusercontent.com/8aj6WNOZ-Z9hSX3FDKauFJiPL7xbMn7Uuiqv8rD5BJeNKQihmiAp9QvZIciOL1Gsjli5j9uuofhx6A2gXtoQ824XNLGGKJo8nDM=w230-e365",
+        "image": "images/resins/esun_general_purpose_resin.jpg",
         "type": "Standard",
         "description": "Standard UV-curing resin for everyday printing. Good detail and easy to use.",
         "color": "#808080",
@@ -8348,7 +8348,7 @@
     {
         "brand": "eSUN",
         "name": "Water Washable Resin",
-        "image": "https://lh3.googleusercontent.com/8aj6WNOZ-Z9hSX3FDKauFJiPL7xbMn7Uuiqv8rD5BJeNKQihmiAp9QvZIciOL1Gsjli5j9uuofhx6A2gXtoQ824XNLGGKJo8nDM=w230-e365",
+        "image": "images/resins/esun_water_washable_resin.jpg",
         "type": "Standard",
         "description": "Clean with water instead of alcohol. Convenient and eco-friendly option.",
         "color": "#808080",
@@ -8428,7 +8428,7 @@
     {
         "brand": "eSUN",
         "name": "ABS-Like Resin",
-        "image": "https://lh3.googleusercontent.com/8aj6WNOZ-Z9hSX3FDKauFJiPL7xbMn7Uuiqv8rD5BJeNKQihmiAp9QvZIciOL1Gsjli5j9uuofhx6A2gXtoQ824XNLGGKJo8nDM=w230-e365",
+        "image": "images/resins/esun_abs_like_resin.jpg",
         "type": "Standard",
         "description": "High toughness resin with ABS-like mechanical properties for functional parts.",
         "color": "#808080",
@@ -8508,7 +8508,7 @@
     {
         "brand": "eSUN",
         "name": "Plant-based Resin",
-        "image": "https://lh3.googleusercontent.com/8aj6WNOZ-Z9hSX3FDKauFJiPL7xbMn7Uuiqv8rD5BJeNKQihmiAp9QvZIciOL1Gsjli5j9uuofhx6A2gXtoQ824XNLGGKJo8nDM=w230-e365",
+        "image": "images/resins/esun_plant_based_resin.jpg",
         "type": "Standard",
         "description": "Eco-friendly resin made from plant-derived materials with low odor.",
         "color": "#808080",
@@ -8588,7 +8588,7 @@
     {
         "brand": "eSUN",
         "name": "Standard Resin",
-        "image": "https://lh3.googleusercontent.com/8aj6WNOZ-Z9hSX3FDKauFJiPL7xbMn7Uuiqv8rD5BJeNKQihmiAp9QvZIciOL1Gsjli5j9uuofhx6A2gXtoQ824XNLGGKJo8nDM=w230-e365",
+        "image": "images/resins/esun_standard_resin.jpg",
         "type": "Standard",
         "description": "Classic UV-curing resin for general use. Good surface finish and detail.",
         "color": "#808080",
@@ -8668,7 +8668,7 @@
     {
         "brand": "AmeraLabs",
         "name": "XV Light",
-        "image": null,
+        "image": "images/resins/ameralabs_xv_light.jpg",
         "type": "Standard",
         "description": "Premium 3D printing resin optimized for high-detail miniatures and figurines.",
         "color": "#808080",
@@ -8748,7 +8748,7 @@
     {
         "brand": "AmeraLabs",
         "name": "DMD-31 Dental Model",
-        "image": null,
+        "image": "images/resins/ameralabs_dmd_31_dental_model.jpg",
         "type": "Standard",
         "description": "Professional dental model resin for accurate dental models and aligners.",
         "color": "#808080",
@@ -8828,7 +8828,7 @@
     {
         "brand": "AmeraLabs",
         "name": "DMD-21 Dental Model",
-        "image": null,
+        "image": "images/resins/ameralabs_dmd_21_dental_model.jpg",
         "type": "Standard",
         "description": "Entry-level dental model resin for orthodontic and prosthodontic applications.",
         "color": "#808080",
