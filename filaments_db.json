@@ -14957,6 +14957,7 @@
         "colorName": "Grey",
         "tags": [
             "MCF",
+            "out of stock",
             "PLA Silk 1.75mm"
         ],
         "profiles": {
@@ -15671,7 +15672,7 @@
         "brand": "Eryone",
         "name": "PLA Silk Filament - 1.75mm±0.03mm (1kg)",
         "material": "Silk PLA",
-        "image": "images/filaments/eryone_pla_silk_filament_175mm003mm_1kg.png",
+        "image": "images/filaments/eryone_pla_silk_filament_175mm003mm_1kg.jpg",
         "description": "Eryone Silk PLA Filament,Reviewed by Parliamo di Maker Feature： Smooth surface, high gloss, little laminated striation. Wide applicable temperature range. Toughness, real silk Silk PLA are close to standard PLA in material properties but it’s tougher and glossier than PLA. Specifications： Filament Diameter: 1.75 mm Tolerance: ±0.03 mm Printing Temperature: 190°C-220°C Heated Bed Temperature: 55-70°C Printing Speed: 30－60 mm/s FAQ 1.",
         "color": "#808080",
         "colorName": "Grey",
@@ -17285,7 +17286,7 @@
         "brand": "Eryone",
         "name": "PLA Matte High-Speed Gradient Multi-Color Filament - 1.75mm±0.03mm (1kg)",
         "material": "Matte PLA",
-        "image": "images/filaments/eryone_pla_matte_high_speed_gradient_multi_color_filament_175mm003mm_1kg.png",
+        "image": "images/filaments/eryone_pla_matte_high_speed_gradient_multi_color_filament_175mm003mm_1kg.jpg",
         "description": "Eryone-Hyper Speed Matte PLAfilament prints produce a delicate matte surface effect, showcasing a soft and high-end texture with almost no visible layer lines. This material can achieve printing speeds of up to 500mm/s, significantly enhancing printing efficiency. It is particularly beginner-friendly, easy to shape, and has good scratch and wear resistance, ensuring a stable printing process.",
         "color": "#808080",
         "colorName": "Grey",
@@ -22429,5 +22430,93 @@
             }
         },
         "params": null
+    },
+    {
+        "brand": "Eryone",
+        "name": "PLA Lite Filament - 1.75mm±0.03mm (1kg)",
+        "material": "PLA",
+        "image": "images/filaments/eryone_pla_lite_filament_175mm003mm_1kg.jpg",
+        "description": "PLA-Lite ERYONE PLA-Lite is a filament that has excellent basic performance and excellent printing performance. It can achieve perfect printing results without complex parameter adjustments. It is a cost-effective filament that is very suitable for both novices and veterans. It is a filament with a matte effect, high-quality temperament, no layer lines, and excellent mechanical properties, which can meet the needs of most appearance models.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "ASA Filament",
+        "material": "ASA",
+        "image": "images/filaments/anycubic_asa_filament.jpg",
+        "description": "Main Features Models Display Filament Parameters Color Type Anycubic ASA Filament Main Features Superior Weather Resistance, Fearless in Outdoor Conditions Outstanding resistance to sunlight, water, and aging. It can fend off UV rays, complex weather changes, and harsh natural environments. Printed models remain undamaged, resistant to aging and fading even after long exposure outdoors.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "ASA Filament",
+            "Black",
+            "Filaments",
+            "Google feed",
+            "Gray"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
     }
 ]
