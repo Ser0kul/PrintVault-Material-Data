@@ -14428,6 +14428,7 @@
         "colorName": "Grey",
         "tags": [
             "MCF",
+            "out of stock",
             "PLA 1.75mm"
         ],
         "profiles": {
@@ -14472,6 +14473,7 @@
         "colorName": "Grey",
         "tags": [
             "MCF",
+            "out of stock",
             "PLA 1.75mm"
         ],
         "profiles": {
@@ -14516,6 +14518,7 @@
         "colorName": "Grey",
         "tags": [
             "MCF",
+            "out of stock",
             "PLA Silk 1.75mm"
         ],
         "profiles": {
@@ -14560,6 +14563,7 @@
         "colorName": "Grey",
         "tags": [
             "MCF",
+            "out of stock",
             "PLA Pro 1.75mm"
         ],
         "profiles": {
@@ -14604,7 +14608,8 @@
         "colorName": "Grey",
         "tags": [
             "Matte PLA",
-            "MCF"
+            "MCF",
+            "out of stock"
         ],
         "profiles": {
             "Default": {
@@ -14648,6 +14653,7 @@
         "colorName": "Grey",
         "tags": [
             "MCF",
+            "out of stock",
             "PLA 1.75mm"
         ],
         "profiles": {
@@ -14737,6 +14743,7 @@
         "colorName": "Grey",
         "tags": [
             "MCF",
+            "out of stock",
             "TPU"
         ],
         "profiles": {
@@ -14825,7 +14832,8 @@
         "colorName": "Grey",
         "tags": [
             "Easy PLA",
-            "MCF"
+            "MCF",
+            "out of stock"
         ],
         "profiles": {
             "Default": {
@@ -14869,7 +14877,8 @@
         "colorName": "Grey",
         "tags": [
             "Matte PLA",
-            "MCF"
+            "MCF",
+            "out of stock"
         ],
         "profiles": {
             "Default": {
@@ -14913,6 +14922,7 @@
         "colorName": "Grey",
         "tags": [
             "MCF",
+            "out of stock",
             "PLA"
         ],
         "profiles": {
@@ -15047,6 +15057,7 @@
         "colorName": "Grey",
         "tags": [
             "MCF",
+            "out of stock",
             "PLA 1.75mm"
         ],
         "profiles": {
@@ -15136,6 +15147,7 @@
         "tags": [
             "Carbon Fiber",
             "MCF",
+            "out of stock",
             "PLA"
         ],
         "profiles": {
@@ -15180,6 +15192,7 @@
         "colorName": "Grey",
         "tags": [
             "MCF",
+            "out of stock",
             "PETG Filament"
         ],
         "profiles": {
@@ -15224,6 +15237,7 @@
         "colorName": "Transparent",
         "tags": [
             "MCF",
+            "out of stock",
             "PETG Clear 1.75mm"
         ],
         "profiles": {
@@ -15719,7 +15733,7 @@
         "brand": "Eryone",
         "name": "PLA Ultra Silk Filament - 1.75mm±0.03mm (1kg)",
         "material": "Silk PLA",
-        "image": "images/filaments/eryone_pla_ultra_silk_filament_175mm003mm_1kg.jpg",
+        "image": "images/filaments/eryone_pla_ultra_silk_filament_175mm003mm_1kg.png",
         "description": "Features: Smooth surface, high gloss, little laminated striation. Wide applicable temperature range. Toughness, real silk Silk PLA are close to standard PLA in material properties but it’s tougher and glossier than PLA. Specifications: Filament Diameter: 1.75mm Tolerance: ±0.03mm Printing Temperature: 190°C-220°C Heated Bed Temperature: 55-70°C Printing Speed: 30－60mm/s Showcase: RAQ 1.",
         "color": "#808080",
         "colorName": "Grey",
@@ -22471,7 +22485,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -22487,6 +22502,185 @@
             "Filaments",
             "Google feed",
             "Gray"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        },
+        "params": null
+    },
+    {
+        "brand": "Overture",
+        "name": "Overture Glow PLA 3D Printer Filament 1.75mm - TGIF",
+        "material": "PLA",
+        "image": "images/filaments/overture_overture_glow_pla_3d_printer_filament_175mm_tgif.jpg",
+        "description": "Experience the Magic of Glow PLA Glow PLA is a revolutionary material that brings your 3D printing projects to life. With its unique glowing properties, this filament is perfect for creating eye-catching designs that stand out in the dark. Whether you're making decorations, sculptures, or prototypes, Glow PLA will add an element of surprise and delight to your creations.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "MCF",
+            "out of stock",
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Anycubic ACE 2 Pro",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_anycubic_ace_2_pro.jpg",
+        "description": "Anycubic ACE 2 Pro",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "3d printer",
+            "fdm 3d printer",
+            "FDM Printer",
+            "Google feed",
+            "New Arrivals"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PETG Refill",
+        "material": "PETG",
+        "image": "images/filaments/anycubic_petg_refill.jpg",
+        "description": "PETG Refill Filament",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Black",
+            "Blue",
+            "Clear",
+            "Filaments",
+            "Google feed"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 240,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 245,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 235,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 250,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA Silk 4KG",
+        "material": "Silk PLA",
+        "image": "images/filaments/anycubic_pla_silk_4kg.jpg",
+        "description": "PLA Silk 4KG",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Silk PLA"
         ],
         "profiles": {
             "Default": {
