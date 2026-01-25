@@ -22712,5 +22712,49 @@
                 "retractionSpeed": 50
             }
         }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Panchroma™ Basic PLA",
+        "material": "PLA",
+        "image": "images/filaments/polymaker_panchroma_basic_pla.png",
+        "description": "Panchroma™ Basic PLA – High Performance Everyday 3D Printing Filament New High-Speed Formula Panchroma™ PLA is engineered with a next-generation PLA formula that supports volumetric speeds up to 28mm/s and print speeds of 350mm/s. Achieve smooth, precise results in a fraction of the time. Ideal for Creative Projects Perfect for miniatures, cosplay props, prototypes, models, and decorative pieces, this filament delivers clean details and smooth surfaces that make your prints stand out.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "new",
+            "Panchroma"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
     }
 ]
