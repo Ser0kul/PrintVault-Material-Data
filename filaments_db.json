@@ -14423,7 +14423,7 @@
         "name": "Overture PLA Refill 3D Printer Filament 1.75mm",
         "material": "PLA",
         "image": "images/filaments/overture_overture_pla_refill_3d_printer_filament_175mm.png",
-        "description": "Upgrade Your Printing Experience Enhance your 3D printing projects with the Overture PLA Refill 3D Printer Filament in 1.75mm size. This high-quality filament is perfect for creating detailed and durable prints that showcase your creativity and craftsmanship. Say goodbye to frustrating clogs and failed prints - this filament is designed for smooth and reliable performance, ensuring a hassle-free printing experience every time.",
+        "description": "Dimensional Accuracy & Consistency With built-in CCD camera and closed-loop extrusion control, each spool of our OVERTURE 1.75 mm 3D printer filament is monitored in real-time to ensure outstanding diameter consistency (±0.02 mm). This high-precision PLA filament delivers reliable layer adhesion and smooth prints across hobbyist and pro printers. Clog-Free & Bubble-Free Our PLA filament's patented anti-clog formula prevents nozzle jams and voids, giving you a trouble-free printing experience.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -14468,12 +14468,11 @@
         "name": "Overture Rock PLA Gradient Filament 1.75mm",
         "material": "PLA",
         "image": "images/filaments/overture_overture_rock_pla_gradient_filament_175mm.png",
-        "description": "Alluring Gradient Color Unleash your creativity with Overture Rock PLA Gradient Filament in 1.75mm. This unique filament features a mesmerizing gradient color that transitions smoothly from one shade to another, adding a touch of charm to your 3D prints. Whether you're working on artistic projects or functional designs, the gradient effect will give your creations a one-of-a-kind look.",
+        "description": "Experience Realistic Marble & Rock Textures Elevate your 3D prints with OVERTURE rock PLA filament , designed to replicate authentic marble and natural stone surfaces . Its unique veining and rough matte finish create stunning visual depth, ideal for architectural models, sculptures, and decorative art.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
             "MCF",
-            "out of stock",
             "PLA 1.75mm"
         ],
         "profiles": {
@@ -14513,12 +14512,11 @@
         "name": "Overture Silk PLA Gradient Filament 1.75mm",
         "material": "Silk PLA",
         "image": "images/filaments/overture_overture_silk_pla_gradient_filament_175mm.png",
-        "description": "Overture Silk PLA Gradient 3D Printing Filament features smooth color transitions and a glossy silk finish. Easy to print with consistent extrusion, ideal for decorative models and compatible with most FDM 3D printers.",
+        "description": "Natural Gradient Effect Overture Gradient Silk PLA delivers stunning multi-color transitions with smooth, natural gradients — no harsh color breaks. Ideal for artistic prints, decorative models, cosplay props, vases, and display prototypes that require dynamic visual impact and seamless tonal flow. Each print unfolds a unique color journey, perfect for creative expression.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
             "MCF",
-            "out of stock",
             "PLA Silk 1.75mm"
         ],
         "profiles": {
@@ -14558,7 +14556,7 @@
         "name": "Overture PLA Professional Gradient Filament 1.75mm",
         "material": "PLA",
         "image": "images/filaments/overture_overture_pla_professional_gradient_filament_175mm.png",
-        "description": "Stunning Gradient Design Our product features a stunning gradient design that will add a touch of elegance to any space. The carefully curated color palette creates a mesmerizing visual effect that is sure to impress your guests. Whether you are looking to update your home decor or add a pop of color to your office, this gradient design is the perfect choice.",
+        "description": "High-Strength PLA+ (PLA Plus) OVERTURE PLA Professional (PLA Pro / PLA+) is engineered for high-strength applications, offering up to 5× the impact toughness of standard PLA . Our professional-grade PLA has a high-purity formulation that ensures low shrinkage, stable dimensional performance and ultra-strong layer adhesion, ensuring durable, reliable, and consistent professional-grade printing results.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -14603,7 +14601,7 @@
         "name": "Overture Matte PLA Gradient Filament 1.75mm",
         "material": "Matte PLA",
         "image": "images/filaments/overture_overture_matte_pla_gradient_filament_175mm.png",
-        "description": "INTRODUCTION 【High-Grade Matte PLA】This newly launched filaments can output prints with shine-free color and frosted texture, which make it perfect for creation needing low-key, rich and enigmatic appearance;Grid layout on the surface for easy resizing 【Easy to Print & More Humanized Design】Easy to print just like normal PLA, more likely to get quality prints with sharp details. Excellent threshold overhang angle.",
+        "description": "High-Grade Matte PLA OVERTURE Matte PLA filament with Frosted Matte Finish & Smooth Surface, Designed to print with a gloss-free finish, achieving a frosted texture that conceals layer lines. Active prints require high visual quality and fine surface detail. Easy to Print & Advanced Properties Engineered for trouble-free 3D printing , this Matte PLA filament offers excellent bed adhesion, improved overhang performance and easy removal of rafts, brims & tree supports.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -14648,12 +14646,11 @@
         "name": "Overture PLA Gradient Filament 1.75mm",
         "material": "PLA",
         "image": "images/filaments/overture_overture_pla_gradient_filament_175mm.png",
-        "description": "Soft Multi-Colors Gradient Delicate Finish Good Layer Adhesion Various Gradient colors",
+        "description": "Dimensional Accuracy & Consistency With built-in CCD camera and closed-loop extrusion control, each spool of our OVERTURE 1.75 mm 3D printer filament is monitored in real-time to ensure outstanding diameter consistency (±0.02 mm). This high-precision PLA filament delivers reliab le layer adhesion and smooth prints across hobbyist and pro printers Clog-Free & Bubble-Free Our PLA filament's patented anti-clog formula prevents nozzle jams and voids, giving you a trouble-free printing experience.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
             "MCF",
-            "out of stock",
             "PLA 1.75mm"
         ],
         "profiles": {
@@ -14693,7 +14690,7 @@
         "name": "Overture High Speed TPU 3D Printer Filament 1.75mm",
         "material": "TPU",
         "image": "images/filaments/overture_overture_high_speed_tpu_3d_printer_filament_175mm.jpg",
-        "description": "Introducing High Speed TPU TPU (Thermoplastic Polyurethane) is a revolutionary material known for its flexibility, durability, and high-speed capabilities. Our High Speed TPU takes these properties to the next level, providing unmatched performance in a wide range of applications. Whether you're looking for superior impact resistance, excellent tear strength, or fast processing speeds, our TPU has you covered.",
+        "description": "Rapid 95A TPU Filament This premium TPU 95A is engineered to print up to 5x faster than standard TPU filaments while maintaining exceptional flexibility and durability. Overture High Speed TPU strikes the ideal balance between softness and resilience. Superior Layer Adhesion at Speed Achieve flawless, strong prints even at high velocities.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -14738,7 +14735,7 @@
         "name": "Overture TPU 3D Printer Filament 1.75mm 2 KG",
         "material": "TPU",
         "image": "images/filaments/overture_overture_tpu_3d_printer_filament_175mm_2_kg.jpg",
-        "description": "【Clog-Free & Bubble-Free】Designed and manufactured with clog-free patent to guarantee a smooth and stable printing experience with these PLA refills. Complete drying for 24 hours before packaging and vacuum sealed with desiccants in a transparent bag 【Less-tangle and Easy to Use】Full mechanical winding and strict manual examination, to make sure the line tidy and less-tangle, so as to avoid possible snap and line breaking; Larger spool inner diameter design makes feeding smoother 【Dimensional...",
+        "description": "Premium 95A Flexibility & Durability Engineer flexible, high-performance parts with OVERTURE TPU filament . Its 95A Shore hardness provides the ideal balance of softness and toughness, offering excellent impact absorption and rebound elasticity for functional prototypes, wearables, robotics, and demanding applications. Oil Resistant & Mechanically Stable Designed for demanding conditions, OVERTURE TPU 95A filament provides reliable oil resistance and consistent mechanical stability.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -14827,13 +14824,12 @@
         "name": "Overture Shimmer PLA 3D Printer Filament 1.75mm",
         "material": "PLA",
         "image": "images/filaments/overture_overture_shimmer_pla_3d_printer_filament_175mm.png",
-        "description": "Easy going for new starters.Upgraded formular make the print is more easier and less print action needed. With consistency and pure quality,Easy PLA can be used on various mainsteam printers,give you less inconvenience and less? hassle.It's easy for new starters to print with basic settings. Less-tangle and Precision Winding .",
+        "description": "Beginner-Friendly & Easy to Use Our upgraded formula makes printing easier than ever, requiring minimal adjustments to get perfect results. With its consistent flow and high purity, Easy PLA is compatible with all mainstream printers, eliminating the typical hassles of 3D printing. It is the perfect choice for beginners to achieve professional results using standard out-of-the-box settings.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
             "Easy PLA",
-            "MCF",
-            "out of stock"
+            "MCF"
         ],
         "profiles": {
             "Default": {
@@ -14872,7 +14868,7 @@
         "name": "Overture Matte PLA Dual Colors 3D Printer Filament 1.75mm",
         "material": "Matte PLA",
         "image": "images/filaments/overture_overture_matte_pla_dual_colors_3d_printer_filament_175mm.jpg",
-        "description": "INTRODUCTION 【High-Grade Matte PLA】This newly launched filaments can output prints with shine-free color and frosted texture, which make it perfect for creation needing low-key, rich and enigmatic appearance;Grid layout on the surface for easy resizing 【Easy to Print & More Humanized Design】Easy to print just like normal PLA, more likely to get quality prints with sharp details. Excellent threshold overhang angle.",
+        "description": "High-Grade Matte PLA OVERTURE Matte PLA filament with Frosted Matte Finish & Smooth Surface, Designed to print with a gloss-free finish, achieving a frosted texture that conceals layer lines. Active prints require high visual quality and fine surface detail. Easy to Print & Advanced Properties Engineered for trouble-free 3D printing , this Matte PLA filament offers excellent bed adhesion, improved overhang performance and easy removal of rafts, brims & tree supports.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -14917,12 +14913,11 @@
         "name": "Overture Glow PLA 3D Printer Filament 1.75mm",
         "material": "PLA",
         "image": "images/filaments/overture_overture_glow_pla_3d_printer_filament_175mm.jpg",
-        "description": "Experience the Magic of Glow PLA Glow PLA is a revolutionary material that brings your 3D printing projects to life. With its unique glowing properties, this filament is perfect for creating eye-catching designs that stand out in the dark. Whether you're making decorations, sculptures, or prototypes, Glow PLA will add an element of surprise and delight to your creations.",
+        "description": "Beginner-Friendly & Easy to Use Our upgraded formula makes printing easier than ever, requiring minimal adjustments to get perfect results. With its consistent flow and high purity, Easy PLA is compatible with all mainstream printers, eliminating the typical hassles of 3D printing. It is the perfect choice for beginners to achieve professional results using standard out-of-the-box settings.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
             "MCF",
-            "out of stock",
             "PLA"
         ],
         "profiles": {
@@ -15052,12 +15047,11 @@
         "name": "Overture PLA 3D Printer Filament 1.75mm-3 KG",
         "material": "PLA",
         "image": "images/filaments/overture_overture_pla_3d_printer_filament_175mm_3_kg.jpg",
-        "description": "【Clog-Free & Bubble-Free】-- Designed and manufactured with clog-free patent to guarantee a smooth and stable printing experience with these PLA refills. Complete drying for 24 hours before packaging and vacuum sealed with desiccants in a transparent bag 【Less-tangle and Easy to Use】Full mechanical winding and strict manual examination, to make sure the line tidy and less-tangle, so as to avoid possible snap and line breaking; Larger spool inner diameter design makes feeding smoother...",
+        "description": "Dimensional Accuracy & Consistency With built-in CCD camera and closed-loop extrusion control, each spool of our OVERTURE 1.75 mm 3D printer filament is monitored in real-time to ensure outstanding diameter consistency (±0.02 mm). This high-precision PLA filament delivers reliab le layer adhesion and smooth prints across hobbyist and pro printers Clog-Free & Bubble-Free Our PLA filament's patented anti-clog formula prevents nozzle jams and voids, giving you a trouble-free printing experience.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
             "MCF",
-            "out of stock",
             "PLA 1.75mm"
         ],
         "profiles": {
@@ -22577,7 +22571,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -22589,10 +22584,10 @@
         "colorName": "Grey",
         "tags": [
             "3d printer",
+            "3D Printers",
             "fdm 3d printer",
             "FDM Printer",
-            "Google feed",
-            "New Arrivals"
+            "Google feed"
         ],
         "profiles": {
             "Default": {
@@ -22623,7 +22618,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -22669,7 +22665,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -22711,7 +22708,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -22725,6 +22723,226 @@
             "30BFCM",
             "new",
             "Panchroma"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        },
+        "params": null
+    },
+    {
+        "brand": "Overture",
+        "name": "Overture PETG Refill 3D Printer Filament 1.75mm",
+        "material": "PETG",
+        "image": "images/filaments/overture_overture_petg_refill_3d_printer_filament_175mm.webp",
+        "description": "Spoolless Refill Design Designed as a refill filament without a disposable plastic spool, OVERTURE Refill PETG helps reduce plastic waste and storage space. Compatible with reusable spool systems, it provides a more sustainable printing solution while maintaining consistent print quality and performance Stronger Than PLA, Easier Than ABS OVERTURE Refill PETG combines the strength, impact resistance and flexibility of ABS with the ease of printing of PLA.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PETG"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 240,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 245,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 235,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 250,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Y-axis Optical Axis Lubricant Brush",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_y_axis_optical_axis_lubricant_brush.jpg",
+        "description": "Y-axis Optical Axis Lubricant Brush Package Dimensions: 116*90*25mm Weight: 25g",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Filament Printer Consumables Parts",
+            "For FDM Series",
+            "google feed",
+            "Kobra X acc"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA+",
+        "material": "PLA+",
+        "image": "images/filaments/anycubic_pla.jpg",
+        "description": "Main Features Models Display Video Introduction Filament Parameters Color Type Anycubic PLA+ Filament Main Features High Toughness Anycubic PLA+ Filament offers outstanding toughness and impact resistance, ensuring resilience under external pressure. Its smooth, low-layer printing capability makes it perfect for crafting detailed models, artwork, and precision engineering components. Outstanding Quality Experience flawless 3D printing with Anycubic PLA+ Filament.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Black",
+            "Blue",
+            "Filaments",
+            "Google feed",
+            "Gray"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "ELEGOO",
+        "name": "PLA Glow",
+        "material": "PLA",
+        "image": "images/filaments/elegoo_pla_glow.jpg",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "3D Printer&Accessories",
+            "New",
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Creality",
+        "name": "8KG Hyper PLA For 8 Colors",
+        "material": "PLA",
+        "image": "images/filaments/creality_8kg_hyper_pla_for_8_colors.png",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PLA"
         ],
         "profiles": {
             "Default": {
