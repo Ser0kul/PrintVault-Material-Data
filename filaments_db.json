@@ -15270,7 +15270,7 @@
         "brand": "Eryone",
         "name": "PLA Silk Dual-Color Filament - 1.75mm±0.03mm (1kg)",
         "material": "Silk PLA",
-        "image": "images/filaments/eryone_pla_silk_dual_color_filament_175mm003mm_1kg.png",
+        "image": "images/filaments/eryone_pla_silk_dual_color_filament_175mm003mm_1kg.jpg",
         "description": "Feature Neat Winding The PLA threads are arranged neatly, without the risk of knotting that making printing more comfortable. Premium Quality Material wire diameter 1.75mm±0.03mm, ensure smooth output line, vacuum packaging without bubbles, does not block nozzle, make the printing more smooth.",
         "color": "#808080",
         "colorName": "Grey",
@@ -16278,7 +16278,7 @@
         "name": "PETG Carbon Fiber Filament - 1.75mm±0.03mm (1kg)",
         "material": "PETG",
         "image": "images/filaments/eryone_petg_carbon_fiber_filament_175mm003mm_1kg.jpg",
-        "description": "Product information & technical details Item no.: ERYONE Carbon Fiber PETG Filament Manufacturer No.: BLACK-B0121001 Manufacturers: ERYONE Content: 1.000 kg Diameter: 1,75 mm, 2,85 mm Product types: Carbon Fiber PETG Filaments Filament colour: Black Net weight: 1000 g Recommended processing temperature: 210 - 250 °C Recommended heating temperature: 60 - 100 °C The carbon fiber content is 6%.",
+        "description": "Product information & technical details Item no.: ERYONE Carbon Fiber PETG Filament Manufacturer No.: BLACK-B0121001 Manufacturers: ERYONE Content: 1.000 kg Diameter: 1,75 mm, 2,85 mm Product types: Carbon Fiber PETG Filaments Filament colour: Black Net weight: 1000 g Recommended processing temperature: 210 - 250 °C Recommended heating temperature: 60 - 100 °C The carbon fiber content is 15%.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -22796,7 +22796,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -22841,7 +22842,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -22887,7 +22889,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -22931,7 +22934,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Creality",
@@ -22969,6 +22973,139 @@
             "Bambu Lab X1C / P1S": {
                 "printTemp": 220,
                 "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        },
+        "params": null
+    },
+    {
+        "brand": "Hatchbox",
+        "name": "COOL GRAY PLA FILAMENT - 1.75MM, 1KG SPOOL",
+        "material": "PLA",
+        "image": "images/filaments/hatchbox_cool_gray_pla_filament_175mm_1kg_spool.jpg",
+        "description": "Product Specifications: Gray PLA Filament 1.75 MM - 1 KG Spool Print Temperature - 180°C - 220°C Less Warping No Heating Bed Required Eco-Friendly Odorless Welcome to HATCHBOX 3D Products! Our engineered filament is here to help you stream your creative outlet, enabling you to see your thoughts and concepts engineered into a real and rewarding reality. The filaments are universally designed and compatible with 3D Printers using 1.75mm diameter filament, with a dimensional accuracy of +/- 0.03mm.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "1.75",
+            "GRAY",
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA High Speed",
+        "material": "PLA",
+        "image": "images/filaments/anycubic_pla_high_speed.jpg",
+        "description": "Main Features Models Display Filament Parameters Color Type Recommended Printing Parameters Anycubic High Speed PLA Filament Main Features Boosting Speed with High-Speed Core Unlock up to 10 times [1] faster output when you pair our High-Speed PLA Filament with a high-speed 3D printer. Designed as the ultimate companion to our Kobra 2 Series 3D Printers. Engineered to match the rapid pace of modern 3D printing technology.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Black",
+            "Blue",
+            "Filaments",
+            "Google feed",
+            "Gray"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Anycubic Accessories Supplementary Delivery",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_anycubic_accessories_supplementary_delivery.png",
+        "description": "Important: \"Anycubic Accessories Supplementary Delivery\" is only for ordering special accessories. Please do not place an order directly. If the accessories you need to purchase are not sold on the official website, please get in touch with our support team to confirm the price first. Ordering process: 1. Contact the support team: Before placing an order, please be sure to verify the accessories you need to purchase and their prices with our support team. 2.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Standard"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
                 "fanSpeed": 100,
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
