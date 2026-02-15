@@ -8904,5 +8904,159 @@
         "params": null,
         "image_status": "placeholder",
         "image_source": "manual"
+    },
+    {
+        "brand": "Siraya Tech",
+        "name": "Siraya Tech Platinum Silicone - Defiant 10",
+        "image": "images/resins/siraya_tech_siraya_tech_platinum_silicone_defiant_10.png",
+        "type": "PLA",
+        "description": "Siraya Tech Defiant 10 is a premium 10A Shore hardness platinum silicone engineered to resist curing inhibition from 3D printer UV resins. Co-developed with professional prop makers, it eliminates the need for complex coatings, offering a smooth, flexible, and frustration-free mold-making experience.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Silicone"
+        ],
+        "profiles": {
+            "Default": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 5,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 5,
+                "liftSpeed1": 60,
+                "retractSpeed1": 150
+            },
+            "Anycubic Photon Mono X": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.0,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Anycubic Photon M3 Plus": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 1.8,
+                "bottomExposure": 20,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Mars 3": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Saturn 2": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.2,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Phrozen Sonic Mighty 8K": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.1,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Creality Halot Mage": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.3,
+                "bottomExposure": 28,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            }
+        }
+    },
+    {
+        "brand": "Creality",
+        "name": "Metal Resin Tank",
+        "image": "images/resins/creality_metal_resin_tank.png",
+        "type": "Standard",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Standard"
+        ],
+        "profiles": {
+            "Default": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 5,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 5,
+                "liftSpeed1": 60,
+                "retractSpeed1": 150
+            },
+            "Anycubic Photon Mono X": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.0,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Anycubic Photon M3 Plus": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 1.8,
+                "bottomExposure": 20,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Mars 3": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Saturn 2": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.2,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Phrozen Sonic Mighty 8K": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.1,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Creality Halot Mage": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.3,
+                "bottomExposure": 28,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            }
+        }
     }
 ]
