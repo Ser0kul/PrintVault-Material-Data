@@ -14872,8 +14872,7 @@
         "colorName": "Grey",
         "tags": [
             "Matte PLA",
-            "MCF",
-            "out of stock"
+            "MCF"
         ],
         "profiles": {
             "Default": {
@@ -23154,6 +23153,7 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     }
 ]
