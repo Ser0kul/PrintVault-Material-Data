@@ -2355,7 +2355,7 @@
         "name": "PolyLite™ PLA",
         "material": "PLA",
         "image": "images/filaments/polymaker_polylite_pla.png",
-        "description": "PolyLite™ PLA is a high-quality PLA designed for reliability and ease of printing. Christmas Space Racer designed by Aaron F. Density: 1.19g/cm³",
+        "description": "Looking for PolyLite™ PLA? Due to warehouse transitions and global expansion, inventory on some products may be temporarily unavailable. Please purchase PolyLite™ PLA from Amazon during this short transition HERE PolyLite™ PLA is a high-quality PLA designed for reliability and ease of printing. Christmas Space Racer designed by Aaron F. Density: 1.19g/cm³",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -2399,7 +2399,7 @@
         "name": "PolyLite™ PLA Pro",
         "material": "PLA",
         "image": "images/filaments/polymaker_polylite_pla_pro.png",
-        "description": "PolyLite™ PLA Pro: Professional-Grade Strength, Effortless Printing Redefine what’s possible with PolyLite™ PLA Pro a next-generation filament that combines outstanding toughness and high rigidity with the easy printability you expect from PLA. Exceptional Toughness Meets High Rigidity PolyLite™ PLA Pro is expertly engineered for users who demand robust, engineering-grade performance.",
+        "description": "Looking for PolyLite™ PLA PRO? Due to warehouse transitions and global expansion, inventory on some products may be temporarily unavailable. Please purchase PolyLite™ PLA Pro from Amazon during this short transition HERE PolyLite™ PLA Pro: Professional-Grade Strength, Effortless Printing Redefine what’s possible with PolyLite™ PLA Pro a next-generation filament that combines outstanding toughness and high rigidity with the easy printability you expect from PLA.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -14560,9 +14560,11 @@
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
+            "feature:gradient",
+            "feature:high-strength",
+            "material:PLA",
             "MCF",
-            "out of stock",
-            "PLA Pro 1.75mm"
+            "out of stock"
         ],
         "profiles": {
             "Default": {
@@ -23155,5 +23157,179 @@
             }
         },
         "params": null
+    },
+    {
+        "brand": "Overture",
+        "name": "Overture High Speed TPU 3D Printer Filament 1.75mm - 2kg",
+        "material": "TPU",
+        "image": "images/filaments/overture_overture_high_speed_tpu_3d_printer_filament_175mm_2kg.jpg",
+        "description": "Rapid 95A TPU Filament This premium TPU 95A is engineered to print up to 5x faster than standard TPU filaments while maintaining exceptional flexibility and durability. Overture High Speed TPU strikes the ideal balance between softness and resilience. Superior Layer Adhesion at Speed Achieve flawless, strong prints even at high velocities.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "feature:flexible",
+            "feature:high-speed",
+            "material:TPU",
+            "MCF",
+            "out of stock"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA Basic 4KG",
+        "material": "PLA",
+        "image": "images/filaments/anycubic_pla_basic_4kg.jpg",
+        "description": "PLA Silk 4KG",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "ELEGOO",
+        "name": "3 kg Filament Spool",
+        "material": "Standard",
+        "image": "images/filaments/elegoo_3_kg_filament_spool.jpg",
+        "description": "Built for Big Projects ：Designed to keep your OrangeStorm Giga running longer, this 3 kg spool minimizes interruptions, ideal for larger prints or multiple smaller projects without frequent spool changes. Quality That Stands Out ：Crafted from premium materials, each spool delivers consistent diameter, smooth extrusion and excellent layer adhesion, ensuring flawless prints with minimal warping every time. Vibrant Colors ：Unleash your creativity with a vibrant palette of colors.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "3D Printer&Accessories",
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "ELEGOO",
+        "name": "Rapid PLA Plus 5 kg Spool",
+        "material": "PLA+",
+        "image": "images/filaments/elegoo_rapid_pla_plus_5_kg_spool.jpg",
+        "description": "【 High-Speed Printing】With enhanced fluidity, our RAPID PLA+ filament melts rapidly and flows smoothly, allowing for a fast printing speed of up to 600mm/s. This feature ensures that you can complete your printing projects quickly without compromising on quality. 【Enhanced Strength & Toughness】ELEGOO RAPID PLA+ filament features high flexural modulus and elongation at break, which makes it resistant to brittleness and cracking.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "3D Printer&Accessories",
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
     }
 ]
