@@ -9060,5 +9060,467 @@
             }
         },
         "params": null
+    },
+    {
+        "brand": "Siraya Tech",
+        "name": "Online payment for Mark Webster - STIN00139",
+        "image": "images/resins/siraya_tech_online_payment_for_mark_webster_stin00139.png",
+        "type": "Standard",
+        "description": "Note: Prior to any purchase made via this link, it is imperative to engage in direct communication with the Siraya Tech team to confirm that the service aligns with your specific requirements. Completion of payment signifies the purchaser's acknowledgment and acceptance of the corresponding service terms.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Standard"
+        ],
+        "profiles": {
+            "Default": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 5,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 5,
+                "liftSpeed1": 60,
+                "retractSpeed1": 150
+            },
+            "Anycubic Photon Mono X": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.0,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Anycubic Photon M3 Plus": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 1.8,
+                "bottomExposure": 20,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Mars 3": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Saturn 2": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.2,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Phrozen Sonic Mighty 8K": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.1,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Creality Halot Mage": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.3,
+                "bottomExposure": 28,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            }
+        }
+    },
+    {
+        "brand": "Creality",
+        "name": "New\n8KG-PioCreat ABS-Like 3D Printer Resin 2.0",
+        "image": "images/resins/creality_new_8kg_piocreat_abs_like_3d_printer_resin_20.png",
+        "type": "ABS",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "ABS"
+        ],
+        "profiles": {
+            "Default": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 5,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 5,
+                "liftSpeed1": 60,
+                "retractSpeed1": 150
+            },
+            "Anycubic Photon Mono X": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.0,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Anycubic Photon M3 Plus": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 1.8,
+                "bottomExposure": 20,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Mars 3": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Saturn 2": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.2,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Phrozen Sonic Mighty 8K": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.1,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Creality Halot Mage": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.3,
+                "bottomExposure": 28,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            }
+        }
+    },
+    {
+        "brand": "Creality",
+        "name": "6KG-PioCreat ABS-Like 3D Printer Resin 2.0",
+        "image": "images/resins/creality_6kg_piocreat_abs_like_3d_printer_resin_20.png",
+        "type": "ABS",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "ABS"
+        ],
+        "profiles": {
+            "Default": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 5,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 5,
+                "liftSpeed1": 60,
+                "retractSpeed1": 150
+            },
+            "Anycubic Photon Mono X": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.0,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Anycubic Photon M3 Plus": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 1.8,
+                "bottomExposure": 20,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Mars 3": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Saturn 2": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.2,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Phrozen Sonic Mighty 8K": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.1,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Creality Halot Mage": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.3,
+                "bottomExposure": 28,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            }
+        }
+    },
+    {
+        "brand": "Creality",
+        "name": "6KG-PioCreat Water-washable Resin 2.0",
+        "image": "images/resins/creality_6kg_piocreat_water_washable_resin_20.png",
+        "type": "Standard",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Standard"
+        ],
+        "profiles": {
+            "Default": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 5,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 5,
+                "liftSpeed1": 60,
+                "retractSpeed1": 150
+            },
+            "Anycubic Photon Mono X": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.0,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Anycubic Photon M3 Plus": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 1.8,
+                "bottomExposure": 20,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Mars 3": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Saturn 2": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.2,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Phrozen Sonic Mighty 8K": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.1,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Creality Halot Mage": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.3,
+                "bottomExposure": 28,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            }
+        }
+    },
+    {
+        "brand": "Creality",
+        "name": "6KG-PioCreat Low Odor Rigid Resin",
+        "image": "images/resins/creality_6kg_piocreat_low_odor_rigid_resin.png",
+        "type": "Standard",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Standard"
+        ],
+        "profiles": {
+            "Default": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 5,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 5,
+                "liftSpeed1": 60,
+                "retractSpeed1": 150
+            },
+            "Anycubic Photon Mono X": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.0,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Anycubic Photon M3 Plus": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 1.8,
+                "bottomExposure": 20,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Mars 3": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Saturn 2": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.2,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Phrozen Sonic Mighty 8K": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.1,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Creality Halot Mage": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.3,
+                "bottomExposure": 28,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            }
+        }
+    },
+    {
+        "brand": "Creality",
+        "name": "New\n6KG-PioCreat 16K Water-washable Resin",
+        "image": "images/resins/creality_new_6kg_piocreat_16k_water_washable_resin.png",
+        "type": "Standard",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Standard"
+        ],
+        "profiles": {
+            "Default": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 5,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 5,
+                "liftSpeed1": 60,
+                "retractSpeed1": 150
+            },
+            "Anycubic Photon Mono X": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.0,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Anycubic Photon M3 Plus": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 1.8,
+                "bottomExposure": 20,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Mars 3": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.5,
+                "bottomExposure": 30,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Elegoo Saturn 2": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.2,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Phrozen Sonic Mighty 8K": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.1,
+                "bottomExposure": 25,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            },
+            "Creality Halot Mage": {
+                "layerHeight": 0.05,
+                "bottomLayerCount": 6,
+                "exposureTime": 2.3,
+                "bottomExposure": 28,
+                "liftDistance1": 6,
+                "liftSpeed1": 65,
+                "retractSpeed1": 180
+            }
+        }
     }
 ]

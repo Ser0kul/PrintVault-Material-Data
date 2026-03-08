@@ -15270,7 +15270,7 @@
         "brand": "Eryone",
         "name": "PLA Silk Dual-Color Filament - 1.75mm±0.03mm (1kg)",
         "material": "Silk PLA",
-        "image": "images/filaments/eryone_pla_silk_dual_color_filament_175mm003mm_1kg.jpg",
+        "image": "images/filaments/eryone_pla_silk_dual_color_filament_175mm003mm_1kg.png",
         "description": "Feature Neat Winding The PLA threads are arranged neatly, without the risk of knotting that making printing more comfortable. Premium Quality Material wire diameter 1.75mm±0.03mm, ensure smooth output line, vacuum packaging without bubbles, does not block nozzle, make the printing more smooth.",
         "color": "#808080",
         "colorName": "Grey",
@@ -20117,7 +20117,7 @@
         "brand": "Creality",
         "name": "Hyper PLA",
         "material": "PLA",
-        "image": "images/filaments/creality_hyper_pla.jpg",
+        "image": "images/filaments/creality_hyper_pla.png",
         "description": null,
         "color": "#808080",
         "colorName": "Grey",
@@ -20332,7 +20332,7 @@
         "brand": "Creality",
         "name": "ABS",
         "material": "ABS",
-        "image": "images/filaments/creality_abs.jpg",
+        "image": "images/filaments/creality_abs.png",
         "description": null,
         "color": "#808080",
         "colorName": "Grey",
@@ -20418,7 +20418,7 @@
         "brand": "Creality",
         "name": "CR-PETG",
         "material": "PETG",
-        "image": "images/filaments/creality_cr_petg.jpg",
+        "image": "images/filaments/creality_cr_petg.png",
         "description": null,
         "color": "#808080",
         "colorName": "Grey",
@@ -23244,7 +23244,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -23287,7 +23288,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -23326,6 +23328,352 @@
             "Bambu Lab X1C / P1S": {
                 "printTemp": 220,
                 "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        },
+        "params": null
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Polymaker™ PLA Pro",
+        "material": "PLA",
+        "image": "images/filaments/polymaker_polymaker_pla_pro.png",
+        "description": "Built for Real-World Performance Polymaker™ PLA Pro is engineered for speed, toughness, and reliability. This toughened PLA formulation delivers improved impact resistance, strong layer adhesion, and dependable dimensional stability, making it ideal for functional parts and demanding print schedules. Fast Printing, Zero Hassle Validated for high-speed printing up to 300 mm/s, PLA Pro helps maximize productivity for rapid prototyping, print farms, and light production environments.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
+            "Polymaker"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Overture",
+        "name": "Overture High Speed TPU 95A 3D Printer Filament 1.75mm - 2kg",
+        "material": "TPU",
+        "image": "images/filaments/overture_overture_high_speed_tpu_95a_3d_printer_filament_175mm_2kg.jpg",
+        "description": "Rapid 95A TPU Filament This premium TPU 95A is engineered to print up to 5x faster than standard TPU filaments while maintaining exceptional flexibility and durability. Overture High Speed TPU strikes the ideal balance between softness and resilience. Superior Layer Adhesion at Speed Achieve flawless, strong prints even at high velocities.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "feature:flexible",
+            "feature:high-speed",
+            "material:TPU",
+            "MCF",
+            "out of stock"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Worry-Free Purchase",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_worry_free_purchase.png",
+        "description": "Worry-Free Shopping with Seel Add extra protection to eligible purchases for peace of mind. Coverage details vary by order. See your specific protections in the widget at cart/checkout, and review complete coverage information in your confirmation email. Having issues? Visit Seel Resolution Center for easy claims and resolution. Note: This is a value-added service by Seel. Do not purchase as a standalone item.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Standard"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Y-Axis Lubricant Brush",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_y_axis_lubricant_brush.jpg",
+        "description": "Y-axis Optical Axis Lubricant Brush Package Dimensions: 116*90*25mm Weight: 25g",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Filament Printer Consumables Parts",
+            "For FDM Series",
+            "google feed",
+            "Kobra X acc"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Creality",
+        "name": "10KG Hyper PLA Black",
+        "material": "PLA",
+        "image": "images/filaments/creality_10kg_hyper_pla_black.webp",
+        "description": null,
+        "color": "#000000",
+        "colorName": "Black",
+        "tags": [
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Creality",
+        "name": "Hyper PLA CF",
+        "material": "Carbon Fiber",
+        "image": "images/filaments/creality_hyper_pla_cf.png",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Carbon Fiber"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Creality",
+        "name": "Hyper PETG",
+        "material": "PETG",
+        "image": "images/filaments/creality_hyper_petg.png",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PETG"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 240,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 245,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 235,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 250,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Creality",
+        "name": "CR-TPU",
+        "material": "TPU",
+        "image": "images/filaments/creality_cr_tpu.png",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "TPU"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
                 "fanSpeed": 100,
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
