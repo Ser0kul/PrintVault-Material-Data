@@ -17294,7 +17294,7 @@
         "brand": "Eryone",
         "name": "PLA Matte High-Speed Gradient Multi-Color Filament - 1.75mm±0.03mm (1kg)",
         "material": "Matte PLA",
-        "image": "images/filaments/eryone_pla_matte_high_speed_gradient_multi_color_filament_175mm003mm_1kg.png",
+        "image": "images/filaments/eryone_pla_matte_high_speed_gradient_multi_color_filament_175mm003mm_1kg.jpg",
         "description": "Eryone-Hyper Speed Matte PLAfilament prints produce a delicate matte surface effect, showcasing a soft and high-end texture with almost no visible layer lines. This material can achieve printing speeds of up to 500mm/s, significantly enhancing printing efficiency. It is particularly beginner-friendly, easy to shape, and has good scratch and wear resistance, ensuring a stable printing process.",
         "color": "#808080",
         "colorName": "Grey",
@@ -23377,7 +23377,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Overture",
@@ -23423,7 +23424,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -23510,7 +23512,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Creality",
@@ -23552,7 +23555,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Creality",
@@ -23594,7 +23598,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Creality",
@@ -23636,7 +23641,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Creality",
@@ -23674,6 +23680,359 @@
             "Bambu Lab X1C / P1S": {
                 "printTemp": 260,
                 "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        },
+        "params": null
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Panchroma™ Dual Matte PLA",
+        "material": "Matte PLA",
+        "image": "images/filaments/polymaker_panchroma_dual_matte_pla.png",
+        "description": "Panchroma™ Dual Matte PLA: Dynamic Dual-Color Matte Finish with Next-Generation PLA Striking Dual-Tone Matte Effect Panchroma™ Dual Matte PLA is a bioplastic-based 3D printing filament engineered to deliver vibrant, two-tone color transitions with a smooth, velvety matte finish. Each spool combines two contrasting colors, creating prints with dynamic depth, shadow play, and a unique visual impact that stands out from single-color filaments.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "25BFCM",
+            "Els PW 18778:39574352855097;39574353215545;39574353051705;39574353379385;39574352953401;39574352494649;39574352756793;39574352330809;39574353281081;39574352625721;39574352363577;39574353150009;39574352396345;39574353477689",
+            "Panchroma",
+            "polyterra"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Panchroma™ Gradient Matte PLA",
+        "material": "Matte PLA",
+        "image": "images/filaments/polymaker_panchroma_gradient_matte_pla.png",
+        "description": "Panchroma™ Matte Gradient PLA: Smooth Color Transitions with Next-Generation PLA Performance Beautiful Matte Gradient Effect Panchroma™ Matte Gradient PLA is a bioplastic-based 3D printing filament that features seamless color transitions along the spool, creating stunning gradient effects in your prints. The matte finish adds a soft, elegant touch, making each model visually unique and appealing.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "20BFCM",
+            "25BFCM",
+            "Els PW 18778:39574352855097;39574353215545;39574353051705;39574353379385;39574352953401;39574352494649;39574352756793;39574352330809;39574353281081;39574352625721;39574352363577;39574353150009;39574352396345;39574353477689",
+            "Panchroma",
+            "polyterra"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Panchroma™ Marble PLA",
+        "material": "PLA",
+        "image": "images/filaments/polymaker_panchroma_marble_pla.png",
+        "description": "Panchroma™ Marble PLA: Realistic Stone Finish with Next-Generation PLA Performance Elegant Marble Effect Panchroma™ Marble is a bioplastic-based 3D printing filament designed to deliver a realistic marble or stone-like appearance. It adds visual texture and sophistication to models, making it ideal for artistic prints, statues, architectural models, and decorative pieces.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "20BFCM",
+            "Els PW 18778:39574352855097;39574353215545;39574353051705;39574353379385;39574352953401;39574352494649;39574352756793;39574352330809;39574353281081;39574352625721;39574352363577;39574353150009;39574352396345;39574353477689",
+            "Panchroma",
+            "polyterra"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Panchroma™ Matte PLA",
+        "material": "Matte PLA",
+        "image": "images/filaments/polymaker_panchroma_matte_pla.png",
+        "description": "Panchroma™ Matte PLA: Next-Generation Matte PLA Filament Bioplastic Formulation for Easy Printing Panchroma™ Matte is a bioplastic-based 3D printing filament designed to set a new standard for PLA. It offers exceptional ease of use, reliable printing quality, fast print speeds, and consistent performance on a wide range of printers. Beautiful Matte Finish and Vibrant Colors This filament delivers a smooth, matte surface and comes in a variety of rich, vibrant colors.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "20BFCM",
+            "Els PW 18778:39574352855097;39574353215545;39574353051705;39574353379385;39574352953401;39574352494649;39574352756793;39574352330809;39574353281081;39574352625721;39574352363577;39574353150009;39574352396345;39574353477689",
+            "excludeBFCM_polyterra",
+            "Panchroma",
+            "polyterra"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Panchroma™ Satin PLA",
+        "material": "PLA",
+        "image": "images/filaments/polymaker_panchroma_satin_pla.png",
+        "description": "Panchroma™ Satin PLA: Enhanced, Reliable, and Easy-to-Print Bioplastic Next-Generation PLA for Superior Printing Panchroma™ Satin PLA is an advanced bioplastic filament designed to redefine the standard for PLA materials. It offers exceptional ease of use, consistent print quality, fast printing speeds, and dependable reliability, making it suitable for both beginners and experienced users.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "20BFCM",
+            "Panchroma",
+            "polyterra"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "[-50%] PLA Basic 4KG",
+        "material": "PLA",
+        "image": "images/filaments/anycubic_50_pla_basic_4kg.jpg",
+        "description": "PLA Silk 4KG",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "[-50%] PLA-CF",
+        "material": "Carbon Fiber",
+        "image": "images/filaments/anycubic_50_pla_cf.jpg",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Carbon Fiber"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "[-50%] PETG-CF",
+        "material": "PETG",
+        "image": "images/filaments/anycubic_50_petg_cf.jpg",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PETG"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 240,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 245,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 235,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 250,
+                "bedTemp": 80,
                 "fanSpeed": 100,
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
