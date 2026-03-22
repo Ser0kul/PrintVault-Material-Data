@@ -3251,7 +3251,7 @@
         "name": "PolySmooth™",
         "material": "Standard",
         "image": "images/filaments/polymaker_polysmooth.png",
-        "description": "PolySmooth™: Effortless Smoothing for Layer-Free Prints Designed for Easy Post-Processing PolySmooth™ is a unique filament engineered for effortless, hands-free post-processing. It prints easily on most desktop 3D printers, making it accessible for users of all skill levels. Achieve Layer-Free Surfaces The standout feature of PolySmooth™ is its ability to be smoothed with alcohol vapor, especially when used with the Polysher™.",
+        "description": "PolySmooth™: Effortless Smoothing for Layer-Free Prints Designed for Easy Post-Processing PolySmooth™ is a unique filament engineered for effortless, hands-free post-processing. It prints easily on most desktop 3D printers, making it accessible for users of all skill levels. Achieve Layer-Free Surfaces The standout feature of PolySmooth™ is its ability to be smoothed with alcohol vapor. This process removes visible layer lines, resulting in glossy, professional-quality models.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -17854,11 +17854,15 @@
         "name": "PLA-CF",
         "material": "Carbon Fiber",
         "image": "images/filaments/anycubic_pla_cf.jpg",
-        "description": "🚚Estimated Shipping Time US：Feb 25 – Mar 5 EU：Mar 10 – Mar 20 UK：Mar 20 – Mar 31",
+        "description": "PLA-CF Filament",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
-            "Carbon Fiber"
+            "Black",
+            "Filaments",
+            "Google feed",
+            "material",
+            "New Arrivals"
         ],
         "profiles": {
             "Default": {
@@ -17897,11 +17901,15 @@
         "name": "PETG-CF",
         "material": "PETG",
         "image": "images/filaments/anycubic_petg_cf.jpg",
-        "description": "🚚Estimated Shipping Time US：Feb 25 – Mar 5 EU：Mar 10 – Mar 20 UK：Mar 20 – Mar 31",
+        "description": "PETG-CF Filament",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
-            "PETG"
+            "Black",
+            "Filaments",
+            "Google feed",
+            "material",
+            "New Arrivals"
         ],
         "profiles": {
             "Default": {
@@ -23346,6 +23354,7 @@
         "tags": [
             "30BFCM",
             "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
+            "new",
             "Polymaker"
         ],
         "profiles": {
@@ -23730,7 +23739,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -23776,7 +23786,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -23821,7 +23832,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -23835,8 +23847,8 @@
             "20BFCM",
             "Els PW 18778:39574352855097;39574353215545;39574353051705;39574353379385;39574352953401;39574352494649;39574352756793;39574352330809;39574353281081;39574352625721;39574352363577;39574353150009;39574352396345;39574353477689",
             "excludeBFCM_polyterra",
-            "Panchroma",
-            "polyterra"
+            "new",
+            "Panchroma"
         ],
         "profiles": {
             "Default": {
@@ -23867,7 +23879,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -23911,7 +23924,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -23953,7 +23967,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
