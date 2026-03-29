@@ -24053,5 +24053,460 @@
                 "retractionSpeed": 50
             }
         }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA High Speed-Mix & Match",
+        "material": "PLA",
+        "image": "images/filaments/anycubic_pla_high_speed_mix_match.jpg",
+        "description": "Main Features Models Display Filament Parameters Color Type Recommended Printing Parameters Anycubic High Speed PLA Filament Main Features Boosting Speed with High-Speed Core Unlock up to 10 times [1] faster output when you pair our High-Speed PLA Filament with a high-speed 3D printer. Designed as the ultimate companion to our Kobra 2 Series 3D Printers. Engineered to match the rapid pace of modern 3D printing technology.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Black",
+            "Blue",
+            "Filaments",
+            "Google feed",
+            "Gray"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA Special-Mix & Match",
+        "material": "PLA",
+        "image": "images/filaments/anycubic_pla_special_mix_match.jpg",
+        "description": "PLA Special",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Filaments",
+            "Google feed",
+            "PLA Special",
+            "Special Color"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PETG Translucent-Mix & Match",
+        "material": "PETG",
+        "image": "images/filaments/anycubic_petg_translucent_mix_match.jpg",
+        "description": "PETG Filament Main Features Models Display Filament Parameters Color Type Recommended Printing Parameters Anycubic PETG Filament Main Features Clear and Vibrant With a vibrant and vivid hue, the prints feature a smooth and delicate surface finish. They exhibit excellent clarity, appearing either semi-transparent or fully transparent when illuminated. This imparts a clear and aesthetically pleasing appearance to the models.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Black",
+            "Filaments",
+            "Google feed",
+            "Gray",
+            "material"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 240,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 245,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 235,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 250,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA+ Filament-Mix & Match",
+        "material": "PLA+",
+        "image": "images/filaments/anycubic_pla_filament_mix_match.jpg",
+        "description": "Main Features Models Display Video Introduction Filament Parameters Color Type Anycubic PLA+ Filament Main Features High Toughness Anycubic PLA+ Filament offers outstanding toughness and impact resistance, ensuring resilience under external pressure. Its smooth, low-layer printing capability makes it perfect for crafting detailed models, artwork, and precision engineering components. Outstanding Quality Experience flawless 3D printing with Anycubic PLA+ Filament.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Black",
+            "Blue",
+            "Filaments",
+            "Google feed",
+            "Gray"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA+ Refill-Mix & Match",
+        "material": "PLA+",
+        "image": "images/filaments/anycubic_pla_refill_mix_match.jpg",
+        "description": "PLA+ Refill",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Black",
+            "Blue",
+            "Filaments",
+            "Google feed",
+            "Gray"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PETG Filament-Mix & Match",
+        "material": "PETG",
+        "image": "images/filaments/anycubic_petg_filament_mix_match.jpg",
+        "description": "PETG Filament Main Features Models Display Filament Parameters Color Type Recommended Printing Parameters Anycubic PETG Filament Main Features Clear and Vibrant With a vibrant and vivid hue, the prints feature a smooth and delicate surface finish. They exhibit excellent clarity, appearing either semi-transparent or fully transparent when illuminated. This imparts a clear and aesthetically pleasing appearance to the models.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Black",
+            "Filaments",
+            "Google feed",
+            "Gray",
+            "material"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 240,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 245,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 235,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 250,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PETG Refill-Mix & Match",
+        "material": "PETG",
+        "image": "images/filaments/anycubic_petg_refill_mix_match.jpg",
+        "description": "PETG Refill Filament",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Black",
+            "Blue",
+            "Clear",
+            "Filaments",
+            "Google feed"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 240,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 245,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 235,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 250,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA Basic Refill-Mix & Match",
+        "material": "PLA",
+        "image": "images/filaments/anycubic_pla_basic_refill_mix_match.jpg",
+        "description": "PLA Basic Refill",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Black",
+            "Blue",
+            "google feed",
+            "Gray",
+            "Green"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA Basic-Mix & Match",
+        "material": "PLA",
+        "image": "images/filaments/anycubic_pla_basic_mix_match.jpg",
+        "description": "Main Features Models Display Video Introduction Filament Parameters Color Type Anycubic PLA Filament Main Features Neat Winding Experience a hassle-free 3D printing process with Anycubic PLA Filament. Our meticulous winding technique minimizes filament tangles, guaranteeing a smooth, frustration-free printing experience. Say goodbye to interruptions and hello to flawless prints for all your creative endeavors. Even Filament Diameter With an impressive ±0.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Black",
+            "Blue",
+            "Clear",
+            "Filaments",
+            "Google feed"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Creality",
+        "name": "PLA Matte",
+        "material": "Matte PLA",
+        "image": "images/filaments/creality_pla_matte.jpg",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Matte PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
     }
 ]
