@@ -24554,6 +24554,1060 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
+        },
+        "params": null
+    },
+    {
+        "brand": "Anycubic",
+        "name": "ABS Filament Mix & Match",
+        "material": "ABS",
+        "image": "images/filaments/anycubic_abs_filament_mix_match.jpg",
+        "description": "ABS Filament",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "ABS"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA Matte Mix & Match",
+        "material": "Matte PLA",
+        "image": "images/filaments/anycubic_pla_matte_mix_match.jpg",
+        "description": "Product Description Highlight Neat Spool, Vacuum Package: Anycubic Matte PLA 3D Printer Filament is vacuum-packed with smooth surface to avoid bubble and nozzle clogging. Natural Material, Odorless: Made from biodegradable and safe material, with no any bad smell. Quality can assure that products shall be used more reassuring. Classic Colors Available: Three popular colors options, and they are Yellow, Black and White. Soft matte texture appears classy and you can't get enough of it.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Matte PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA Silk Mix & Match",
+        "material": "Silk PLA",
+        "image": "images/filaments/anycubic_pla_silk_mix_match.jpg",
+        "description": "Product Description Highlight Neat Spool, Smooth Sheen: Anycubic Silk PLA 3D Printer Filament is vacuum-packed with smooth surface to avoid bubble and nozzle clogging. Natural Material, Odorless: Made from biodegradable and safe material, with no any bad smell. Quality can assure that products shall be used more reassuring. Gorgeous Colors Available: Four flowery colors options, and they are Rainbow, Silver, Light Gold and Metal Blue. Colors of the multi-style, to better meet your needs.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Silk PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PETG Translucent Mix & Match",
+        "material": "PETG",
+        "image": "images/filaments/anycubic_petg_translucent_mix_match.jpg",
+        "description": "PETG Filament Mix & Match Main Features Models Display Filament Parameters Color Type Recommended Printing Parameters Anycubic PETG Filament Main Features Clear and Vibrant With a vibrant and vivid hue, the prints feature a smooth and delicate surface finish. They exhibit excellent clarity, appearing either semi-transparent or fully transparent when illuminated. This imparts a clear and aesthetically pleasing appearance to the models.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PETG"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 240,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 245,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 235,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 250,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA Special Mix & Match",
+        "material": "PLA",
+        "image": "images/filaments/anycubic_pla_special_mix_match.jpg",
+        "description": "PLA Special Mix & Match",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA+ Refill Mix & Match",
+        "material": "PLA+",
+        "image": "images/filaments/anycubic_pla_refill_mix_match.jpg",
+        "description": "PLA+ Refill Mix & Match",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PLA+"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA+ Mix & Match",
+        "material": "PLA+",
+        "image": "images/filaments/anycubic_pla_mix_match.jpg",
+        "description": "Main Features Models Display Video Introduction Filament Parameters Color Type Anycubic PLA+ Filament Main Features High Toughness Anycubic PLA+ Filament offers outstanding toughness and impact resistance, ensuring resilience under external pressure. Its smooth, low-layer printing capability makes it perfect for crafting detailed models, artwork, and precision engineering components. Outstanding Quality Experience flawless 3D printing with Anycubic PLA+ Filament.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PLA+"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA High Speed Mix & Match",
+        "material": "PLA",
+        "image": "images/filaments/anycubic_pla_high_speed_mix_match.jpg",
+        "description": "Main Features Models Display Filament Parameters Color Type Recommended Printing Parameters Anycubic High Speed PLA Filament Main Features Boosting Speed with High-Speed Core Unlock up to 10 times [1] faster output when you pair our High-Speed PLA Filament with a high-speed 3D printer. Designed as the ultimate companion to our Kobra 2 Series 3D Printers. Engineered to match the rapid pace of modern 3D printing technology.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PETG Refill Mix & Match",
+        "material": "PETG",
+        "image": "images/filaments/anycubic_petg_refill_mix_match.jpg",
+        "description": "PETG Refill Mix & Match",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PETG"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 240,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 245,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 235,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 250,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PETG Filament Mix & Match",
+        "material": "PETG",
+        "image": "images/filaments/anycubic_petg_filament_mix_match.jpg",
+        "description": "PETG Filament Mix & Match Main Features Models Display Filament Parameters Color Type Recommended Printing Parameters Anycubic PETG Filament Main Features Clear and Vibrant With a vibrant and vivid hue, the prints feature a smooth and delicate surface finish. They exhibit excellent clarity, appearing either semi-transparent or fully transparent when illuminated. This imparts a clear and aesthetically pleasing appearance to the models.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PETG"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 240,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 245,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 235,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 250,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA Basic Refill Mix & Match",
+        "material": "PLA",
+        "image": "images/filaments/anycubic_pla_basic_refill_mix_match.jpg",
+        "description": "PLA Basic Refill Mix & Match",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "PLA Basic Mix & Match",
+        "material": "PLA",
+        "image": "images/filaments/anycubic_pla_basic_mix_match.jpg",
+        "description": "Main Features Models Display Video Introduction Filament Parameters Color Type Anycubic PLA Filament Main Features Neat Winding Experience a hassle-free 3D printing process with Anycubic PLA Filament. Our meticulous winding technique minimizes filament tangles, guaranteeing a smooth, frustration-free printing experience. Say goodbye to interruptions and hello to flawless prints for all your creative endeavors. Even Filament Diameter With an impressive ±0.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Resistance Strain Gage",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_resistance_strain_gage.jpg",
+        "description": "Resistance Strain Gage for Photon Series",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "For LCD Series",
+            "Google feed",
+            "Photon Mono 4 Ultra acc",
+            "Photon Mono M7 acc",
+            "Photon Mono M7 Pro acc"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Peristaltic Pump Pipes",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_peristaltic_pump_pipes.jpg",
+        "description": "Peristaltic Pump Pipes for Photon Series",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "3D Printer Parts",
+            "For LCD Series",
+            "Google feed",
+            "Photon Mono M7 Pro acc",
+            "Resin Printer Maintence Parts"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Fresnel Lens",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_fresnel_lens.jpg",
+        "description": "Product Specifications Compatible Weight Package Dimensions Photon Mono M7 Pro、Photon Mono M7 225g 290*198*38mm Photon Mono 4 Ultra 111g 180*110*65mm Replacement Guide Please learn about the replacements on Anycubic Wiki .",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "For LCD Series",
+            "Google feed",
+            "Photon Mono 4 Ultra acc",
+            "Photon Mono M7 acc",
+            "Photon Mono M7 Pro acc"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Motherboard",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_motherboard.jpg",
+        "description": "Product Specifications Compatible Weight Package Dimensions Photon Mono M7 Pro 118g 180*110*65mm Photon Mono M7 118g 168*131*46mm Replacement Guide Please learn about the replacements on Anycubic Wiki .",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "for lcd legacy models",
+            "For LCD Series",
+            "Google feed",
+            "Photon D2 acc",
+            "Photon Mono M7 acc"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "SG15 Pulley 5pcs",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_sg15_pulley_5pcs.jpg",
+        "description": "Product Specifications Compatible Package Dimensions Weight Quantity Parameter Kobra 2 Max 116*92*27mm 67g 5 Pcs SG15 bearing pulley\\D17*d5*L9.8*shaft diameter 6\\double row ball bearings\\bearing steel GCr15\\cleaned and lubricated with grease\\P0\\clearance 3-8um Kobra 2 Plus Kobra 2 Pro Replacement Guide Please learn about the replacements on Anycubic Wiki .",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Filament Printer Maintence Parts",
+            "for fdm legacy models",
+            "For FDM Series",
+            "Google feed"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "POM V-Wheel 5pcs",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_pom_v_wheel_5pcs.jpg",
+        "description": "Product Specifications Compatible Package Dimensions Weight Dimension Inner Diameter Parameter Kobra 2 Max 116*92*27mm 319g / / POM-GT2-20 teeth-D16*H12.8mm Kobra 2 Plus Kobra 2 Pro Kobra 2 Neo Kobra 2 Anycubic C / / φ24x10.2mm 4.9mm Black POM + bearing steel - two 625Z bearings Vyper Kobra Kobra Max Kobra Plus Kobra Go Kobra Neo Mega Zero 2.0 Mega X Mega SE Replacement Guide Please learn about the replacements on Anycubic Wiki .",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "3D Printer Parts",
+            "Filament Printer Maintence Parts",
+            "for fdm legacy models",
+            "For FDM Series",
+            "Google feed"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Adapter",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_adapter.jpg",
+        "description": "Product Specifications Compatible Weight Package Dimensions In the Package Parameter Photon Mono 2、 Air Heat& Pure Set 293g 182*116*110mm Power adapter + power cord sticker 24V/2.5A/DC end 5.5-2.5mm elbow/wall plug/cable length 1.5m/US/EU/UK/CA/AU/CN standard Replacement Guide Please learn about the replacements on Anycubic Wiki .",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "for lcd legacy models",
+            "For LCD Series",
+            "Google feed",
+            "Photon M3 Max acc",
+            "Photon Mono 4 acc"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Synchronous Wheel 5pcs",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_synchronous_wheel_5pcs.jpg",
+        "description": "Product Specifications Compatible Package Dimensions Weight Kobra 2 Max 116*92*27mm 44g Kobra 2 Plus Kobra 2 Pro 116*92*27mm 43g Replacement Guide Please learn about the replacements on Anycubic Wiki .",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Filament Printer Maintence Parts",
+            "for fdm legacy models",
+            "For FDM Series",
+            "Google feed"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Printer Cover",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_printer_cover.jpg",
+        "description": "Printer Cover for Photon Series",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "3D Printer Parts",
+            "for lcd legacy models",
+            "For LCD Series",
+            "Google feed",
+            "Resin Printer Maintence Parts"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Display Panel",
+        "material": "PLA",
+        "image": "images/filaments/anycubic_display_panel.webp",
+        "description": "Display Panel for Wash & Cure Machine",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "For Wash & Cure Series",
+            "Google feed",
+            "Resin Printer Maintence Parts",
+            "Wash & Cure 3 acc",
+            "Wash & Cure 3 Plus acc"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Power Adapter",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_power_adapter.jpg",
+        "description": "Power Adapter for Wash & Cure Machine",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "For Wash & Cure Series",
+            "Google feed",
+            "Resin Printer Maintence Parts",
+            "Wash & Cure 3 acc",
+            "Wash & Cure 3 Plus acc"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Detergent Container",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_detergent_container.jpg",
+        "description": "Detergent Container for Wash & Cure Machine",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "for wash & cure legacy models",
+            "For Wash & Cure Series",
+            "Google feed",
+            "Resin Printer Maintence Parts"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
         }
     }
 ]
