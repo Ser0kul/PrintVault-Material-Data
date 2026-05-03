@@ -9681,6 +9681,7 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     }
 ]
