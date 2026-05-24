@@ -22647,9 +22647,9 @@
         "tags": [
             "3d printer",
             "3D Printers",
+            "ACMCPS10",
             "fdm 3d printer",
-            "FDM Printer",
-            "Google feed"
+            "FDM Printer"
         ],
         "profiles": {
             "Default": {
@@ -23544,6 +23544,7 @@
             "Filament Printer Consumables Parts",
             "For FDM Series",
             "google feed",
+            "kobra 4 acc",
             "Kobra X acc"
         ],
         "profiles": {
@@ -23625,7 +23626,7 @@
         "brand": "Creality",
         "name": "Hyper PLA CF",
         "material": "Carbon Fiber",
-        "image": "images/filaments/creality_hyper_pla_cf.jpg",
+        "image": "images/filaments/creality_hyper_pla_cf.png",
         "description": null,
         "color": "#808080",
         "colorName": "Grey",
@@ -26281,5 +26282,47 @@
             }
         },
         "params": null
+    },
+    {
+        "brand": "Creality",
+        "name": "8KG Hyper PLA",
+        "material": "PLA",
+        "image": "images/filaments/creality_8kg_hyper_pla.png",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
     }
 ]
