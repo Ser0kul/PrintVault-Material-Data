@@ -20394,7 +20394,7 @@
         "brand": "Creality",
         "name": "ABS",
         "material": "ABS",
-        "image": "images/filaments/creality_abs.png",
+        "image": "images/filaments/creality_abs.jpg",
         "description": null,
         "color": "#808080",
         "colorName": "Grey",
@@ -23712,7 +23712,7 @@
         "brand": "Creality",
         "name": "CR-TPU",
         "material": "TPU",
-        "image": "images/filaments/creality_cr_tpu.png",
+        "image": "images/filaments/creality_cr_tpu.jpg",
         "description": null,
         "color": "#808080",
         "colorName": "Grey",
@@ -26319,6 +26319,95 @@
             "Bambu Lab X1C / P1S": {
                 "printTemp": 220,
                 "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        },
+        "params": null
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Polymaker™ ABS Max",
+        "material": "ABS",
+        "image": "images/filaments/polymaker_polymaker_abs_max.png",
+        "description": "Max Performance ABS Polymaker™ ABS Max is the highest-performance ABS in the Polymaker lineup, engineered for advanced users and demanding applications that exceed the capabilities of conventional consumer-grade ABS and ASA materials. Speed Without Compromise Designed for print speeds up to 200 mm/s, ABS Max delivers exceptional performance without sacrificing reliability or print quality.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "gorgias_do_not_recommend",
+            "new",
+            "Polymaker"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Polymaker™ ABS Pro",
+        "material": "ABS",
+        "image": "images/filaments/polymaker_polymaker_abs_pro.png",
+        "description": "Professional Grade ABS Polymaker™ ABS Pro is an engineering-grade ABS filament developed for users who require more performance than standard ABS can provide. With enhanced heat resistance, strength, and impact resistance, ABS Pro is the ideal upgrade for demanding functional printing applications. High Speed Printability Validated for print speeds up to 250 mm/s, ABS Pro enables increased productivity while maintaining excellent part quality and reliability.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "gorgias_do_not_recommend",
+            "new",
+            "Polymaker"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
                 "fanSpeed": 100,
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
