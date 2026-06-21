@@ -2435,7 +2435,7 @@
         "name": "PolyLite™ PLA Pro",
         "material": "PLA",
         "image": "images/filaments/polymaker_polylite_pla_pro.png",
-        "description": "Looking for PolyLite™ PLA PRO? Due to warehouse transitions and global expansion, inventory on some products may be temporarily unavailable. Please purchase PolyLite™ PLA Pro from Amazon during this short transition HERE PolyLite™ PLA Pro: Professional-Grade Strength, Effortless Printing Redefine what’s possible with PolyLite™ PLA Pro a next-generation filament that combines outstanding toughness and high rigidity with the easy printability you expect from PLA.",
+        "description": "PolyLite™ PLA Pro: Professional-Grade Strength, Effortless Printing Redefine what’s possible with PolyLite™ PLA Pro a next-generation filament that combines outstanding toughness and high rigidity with the easy printability you expect from PLA. Exceptional Toughness Meets High Rigidity PolyLite™ PLA Pro is expertly engineered for users who demand robust, engineering-grade performance.",
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
@@ -26460,7 +26460,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -26502,7 +26503,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Creality",
@@ -26514,6 +26516,558 @@
         "colorName": "Grey",
         "tags": [
             "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Fiberon™ PA12-CF10",
+        "material": "Nylon",
+        "image": "images/filaments/polymaker_fiberon_pa12_cf10.png",
+        "description": "Fiberon™ PA12-CF10: Carbon Fiber Reinforced PA12 for High-Performance Printing (Formerly PolyMide™ PA12-CF) Professional-Grade Mechanical Strength and Dimensional Stability Fiberon™ PA12-CF10 is a carbon fiber reinforced long-chain copolyamide (PA12) filament engineered for demanding industrial and engineering applications.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "25BFCM",
+            "Els PW 18778:39574349840441",
+            "established",
+            "Fiberon",
+            "polymide"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Fiberon™ PA6-CF20",
+        "material": "Nylon",
+        "image": "images/filaments/polymaker_fiberon_pa6_cf20.png",
+        "description": "Fiberon™ PA6-CF20: High-Strength Carbon Fiber Reinforced Nylon 6 Filament (Formerly PolyMide™ PA6-CF) Engineered for Demanding Applications Fiberon™ PA6-CF20 is a carbon fiber reinforced PA6 (Nylon 6) filament containing 20% carbon fiber, designed for exceptional mechanical strength, stiffness, and heat resistance.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574350102585;39574350069817",
+            "established",
+            "Fiberon",
+            "polymide"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Fiberon™ PA6-GF25",
+        "material": "Nylon",
+        "image": "images/filaments/polymaker_fiberon_pa6_gf25.png",
+        "description": "Fiberon™ PA6-GF25: High-Performance Glass Fiber Reinforced Nylon 6 Filament (Formerly PolyMide™ PA6-GF) Exceptional Strength, Stiffness, and Heat Resistance Fiberon™ PA6-GF25 is a glass fiber reinforced PA6 (Nylon 6) filament containing 25% glass fiber by weight. This advanced composite material delivers outstanding mechanical strength, high stiffness, and excellent thermal properties, making it ideal for demanding engineering, automotive, aerospace, and industrial applications.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "25BFCM",
+            "Els PW 18778:39574350266425;39574350233657",
+            "established",
+            "Fiberon",
+            "polymide"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Fiberon™ PA612-CF15",
+        "material": "Nylon",
+        "image": "images/filaments/polymaker_fiberon_pa612_cf15.png",
+        "description": "Fiberon™ PA612-CF15: Advanced Carbon Fiber Reinforced PA612 Filament Superior Engineering Performance (Formerly PolyMide™ PA612-CF) Fiberon™ PA612-CF15 is a carbon fiber reinforced long-chain copolyamide (PA612) filament designed for high-performance engineering applications. Its unique chemical structure results in significantly lower moisture sensitivity than traditional PA6/66 and PA6-based nylons, while offering better mechanical properties than PA12-based materials.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574349840441",
+            "established",
+            "Fiberon",
+            "polymide"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Fiberon™ PETG-ESD",
+        "material": "PETG",
+        "image": "images/filaments/polymaker_fiberon_petg_esd.png",
+        "description": "Fiberon™ PETG-ESD: ESD-Safe PETG for Electronics Applications (Formerly PolyMax™ PETG-ESD) Electrostatic Discharge (ESD) Protection Fiberon™ PETG-ESD is specifically engineered to provide reliable electrostatic discharge (ESD) safety, making it an excellent choice for 3D printing parts used in electronics manufacturing, assembly, and handling. This property helps protect sensitive electronic components from static electricity damage during production and use.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574348234809;39574348267577",
+            "Fiberon",
+            "new",
+            "polymax"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 240,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 245,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 235,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 250,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Panchroma™ Dual Silk PLA",
+        "material": "Silk PLA",
+        "image": "images/filaments/polymaker_panchroma_dual_silk_pla.png",
+        "description": "Panchroma Dual Silk PLA (Formerly PolyLite™ Dual Silk) New And Improved Silk Formula! Our new dual silk formula solves brittleness and clogging while keeping a shiny, smooth finish. Prints faster and cleaner; up to 250mm/s with reliable results every time; ideal for 3D printing at any experience level. Improved Layer Adhesion Built for stronger layer bonding, this filament gives your prints extra durability without sacrificing surface finish.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "25BFCM",
+            "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
+            "established",
+            "Panchroma",
+            "polylite"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Panchroma™ Galaxy PLA",
+        "material": "PLA",
+        "image": "images/filaments/polymaker_panchroma_galaxy_pla.png",
+        "description": "Panchroma™ Galaxy PLA: Deep Colors with Brilliant Silver Sparkle (Formerly PolyLite™ Galaxy) Cosmic, Starry Visual Effect Panchroma™ Galaxy PLA features rich, dark base colors that are beautifully contrasted by sparkling silver aluminum specks. This unique combination creates a striking, cosmic effect reminiscent of a star-filled night sky - making every print visually captivating.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
+            "established",
+            "Panchroma",
+            "polylite"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Panchroma™ Glow PLA",
+        "material": "PLA",
+        "image": "images/filaments/polymaker_panchroma_glow_pla.png",
+        "description": "Panchroma™ Glow PLA: Natural Daylight Color with Stunning Glow-in-the-Dark Effect (Formerly PolyLite™ Glow) Subtle Daytime Appearance, Vibrant Nighttime Glow Panchroma™ Glow offers a natural, understated color in daylight that transforms to reveal a beautiful glowing effect in the dark. This filament adds an element of surprise and visual interest to your prints, making them perfect for creative and functional applications.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
+            "established",
+            "Panchroma",
+            "polylite"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Panchroma™ Luminous PLA",
+        "material": "PLA",
+        "image": "images/filaments/polymaker_panchroma_luminous_pla.png",
+        "description": "Panchroma™ Luminous PLA: Daylight Color and Matching Glow-in-the-Dark Effect (Formerly PolyLite™ Luminous) Vivid Daylight Color, Striking Nighttime Glow Panchroma™ Luminous is a specialty filament that displays a vibrant, unique color in daylight and glows in a similar shade when the lights go out. This dual effect makes your prints stand out both day and night, adding a playful and eye-catching twist to any project.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
+            "established",
+            "Panchroma",
+            "polylite"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Panchroma™ Silk PLA",
+        "material": "Silk PLA",
+        "image": "images/filaments/polymaker_panchroma_silk_pla.png",
+        "description": "Panchroma Silk PLA (Formerly PolyLite™ Silk) New And Improved Silk Formula! Our new silk formula solves brittleness and clogging while keeping a shiny, smooth finish. Prints faster and cleaner; up to 250mm/s with reliable results every time; ideal for 3D printing at any experience level. Improved Layer Adhesion Built for stronger layer bonding, this filament gives your prints extra durability without sacrificing surface finish.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "20BFCM",
+            "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
+            "established",
+            "Panchroma",
+            "polylite"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Panchroma™ Starlight PLA",
+        "material": "PLA",
+        "image": "images/filaments/polymaker_panchroma_starlight_pla.png",
+        "description": "Panchroma™ Starlight PLA: Shimmering, Color-Shifting Effects (Formerly PolyLite™ Starlight) Eye-Catching Shimmer and Color Shift Panchroma™ Starlight PLA is a specialty filament designed to create a mesmerizing shimmering effect that changes color depending on the angle and intensity of light. This dynamic visual quality makes every print stand out with a magical, starlit appearance.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
+            "established",
+            "Panchroma",
+            "polylite"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Panchroma™ UV Shift PLA",
+        "material": "PLA",
+        "image": "images/filaments/polymaker_panchroma_uv_shift_pla.png",
+        "description": "Panchroma™ UV Shift PLA: Color Changing from Natural to Orange Under UV Light (Formerly PolyLite™ UV Changing) Dynamic UV-Activated Color Change Panchroma™ UV Shift PLA is a unique filament that appears natural in regular light but shifts to a vibrant orange color when exposed to UV or black light. This dramatic transformation adds an exciting visual effect to your prints, making them stand out under UV illumination.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
+            "established",
+            "Panchroma",
+            "polylite"
         ],
         "profiles": {
             "Default": {
