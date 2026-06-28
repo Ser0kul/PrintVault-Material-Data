@@ -9841,7 +9841,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Siraya Tech",
@@ -9920,6 +9921,7 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     }
 ]

@@ -26592,7 +26592,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -26638,7 +26639,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -26684,7 +26686,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -26730,7 +26733,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -26776,7 +26780,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -26822,7 +26827,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -26868,7 +26874,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -26914,7 +26921,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -26960,7 +26968,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -27006,7 +27015,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -27052,7 +27062,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -27094,6 +27105,53 @@
             "Bambu Lab X1C / P1S": {
                 "printTemp": 220,
                 "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        },
+        "params": null
+    },
+    {
+        "brand": "Anycubic",
+        "name": "ABS Filament - KOL Partner Only",
+        "material": "ABS",
+        "image": "images/filaments/anycubic_abs_filament_kol_partner_only.jpg",
+        "description": "KOL Partner Only",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "ABS Filament",
+            "Black",
+            "Google feed",
+            "Gray",
+            "material"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
                 "fanSpeed": 100,
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
