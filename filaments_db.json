@@ -20394,7 +20394,7 @@
         "brand": "Creality",
         "name": "ABS",
         "material": "ABS",
-        "image": "images/filaments/creality_abs.jpg",
+        "image": "images/filaments/creality_abs.png",
         "description": null,
         "color": "#808080",
         "colorName": "Grey",
@@ -23626,7 +23626,7 @@
         "brand": "Creality",
         "name": "Hyper PLA CF",
         "material": "Carbon Fiber",
-        "image": "images/filaments/creality_hyper_pla_cf.jpg",
+        "image": "images/filaments/creality_hyper_pla_cf.png",
         "description": null,
         "color": "#808080",
         "colorName": "Grey",
@@ -23669,7 +23669,7 @@
         "brand": "Creality",
         "name": "Hyper PETG",
         "material": "PETG",
-        "image": "images/filaments/creality_hyper_petg.jpg",
+        "image": "images/filaments/creality_hyper_petg.png",
         "description": null,
         "color": "#808080",
         "colorName": "Grey",
@@ -23712,7 +23712,7 @@
         "brand": "Creality",
         "name": "CR-TPU",
         "material": "TPU",
-        "image": "images/filaments/creality_cr_tpu.png",
+        "image": "images/filaments/creality_cr_tpu.jpg",
         "description": null,
         "color": "#808080",
         "colorName": "Grey",
@@ -26546,7 +26546,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Polymaker",
@@ -27156,6 +27157,7 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     }
 ]
