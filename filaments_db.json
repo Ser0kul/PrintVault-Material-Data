@@ -16506,7 +16506,7 @@
         "brand": "Eryone",
         "name": "PLA Silk Rainbow Filament - 1.75mm±0.03mm (1kg)",
         "material": "Silk PLA",
-        "image": "images/filaments/eryone_pla_silk_rainbow_filament_175mm003mm_1kg.jpg",
+        "image": "images/filaments/eryone_pla_silk_rainbow_filament_175mm003mm_1kg.png",
         "description": "ERYONE Rainbow PLA Filament,Reviewed By WF3D Feature： Metallic silk rainbow PLA has an unique silk metallic texture. A 10-meter filament is in one color: Purple - copper - green - sand yellow - purple blue - ice blue - bronze - orange - rose - pale purple. 10 colors in a cycle, bright colors, clear gradient colors, fixed sort order; 1KG filament is about 330 meters long, in 20 colors, and has high brightness and strong silk rainbow metal texture. Specifications： Filament Diameter: 1.",
         "color": "#808080",
         "colorName": "Grey",
@@ -24885,7 +24885,7 @@
         "brand": "Anycubic",
         "name": "PLA+ Mix & Match",
         "material": "PLA+",
-        "image": "images/filaments/anycubic_pla_mix_match.jpg",
+        "image": "images/filaments/anycubic_pla_mix_match.png",
         "description": "Main Features Models Display Video Introduction Filament Parameters Color Type Anycubic PLA+ Filament Main Features High Toughness Anycubic PLA+ Filament offers outstanding toughness and impact resistance, ensuring resilience under external pressure. Its smooth, low-layer printing capability makes it perfect for crafting detailed models, artwork, and precision engineering components. Outstanding Quality Experience flawless 3D printing with Anycubic PLA+ Filament.",
         "color": "#808080",
         "colorName": "Grey",
@@ -27159,5 +27159,223 @@
             }
         },
         "params": null
+    },
+    {
+        "brand": "Anycubic",
+        "name": "S1 Max Toolhead Quick-release Cover",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_s1_max_toolhead_quick_release_cover.jpg",
+        "description": "Product Specifications Compatible Weight Package Dimensions Kobra S1 Max Kobra S1 Max Combo 67g 116*69*69mm Replacement Guide Please learn about the replacements on S1 Max Toolhead Quick-release Cover Installation Guide (the installation of this component is shown at 0:10-0:15 in the video).",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "3D Printer Parts",
+            "For FDM Series",
+            "kobra s1 max acc"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "S1 Max Strain Gauge + Heatsink",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_s1_max_strain_gauge_heatsink.jpg",
+        "description": "Product Specifications Compatible Weight Package Dimensions Kobra S1 Max Kobra S1 Max Combo 33g 86*57*38mm Replacement Guide Please learn about the replacements on Strain Gauge and Heatsink Replacement Guide .",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "3D Printer Parts",
+            "For FDM Series",
+            "kobra s1 max acc"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "ACE 2 Pro Shock Absorption Mechanism",
+        "material": "ABS",
+        "image": "images/filaments/anycubic_ace_2_pro_shock_absorption_mechanism.jpg",
+        "description": "Product Specifications Compatible Weight Package Dimensions ACE 2 Pro 75g 118*96*47mm Replacement Guide Please learn about the replacements on Buffer Mechanism Replacement Guide .",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "3D Printer Parts",
+            "ace 2 pro acc",
+            "For FDM Series"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Anycubic",
+        "name": "ACE GEN2 Upper Channel",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_ace_gen2_upper_channel.jpg",
+        "description": "Product Specifications Compatible Weight Package Dimensions Kobra X Kobra X Combo 50g 115*71*70mm Replacement Guide Please learn about the replacements on Upper Channel Replacement Guide .",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "3D Printer Parts",
+            "For FDM Series",
+            "Kobra X acc"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Creality",
+        "name": "6KG Hyper PLA",
+        "material": "PLA",
+        "image": "images/filaments/creality_6kg_hyper_pla.png",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
     }
 ]

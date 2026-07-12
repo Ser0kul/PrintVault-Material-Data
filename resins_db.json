@@ -10000,7 +10000,8 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "ELEGOO",
@@ -10078,6 +10079,7 @@
                 "liftSpeed1": 65,
                 "retractSpeed1": 180
             }
-        }
+        },
+        "params": null
     }
 ]
