@@ -27202,7 +27202,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -27246,7 +27247,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -27290,7 +27292,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Anycubic",
@@ -27334,7 +27337,8 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     },
     {
         "brand": "Creality",
@@ -27376,6 +27380,7 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
-        }
+        },
+        "params": null
     }
 ]
