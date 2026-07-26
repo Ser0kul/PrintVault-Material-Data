@@ -27382,5 +27382,91 @@
             }
         },
         "params": null
+    },
+    {
+        "brand": "Polymaker",
+        "name": "PolyBox",
+        "material": "Standard",
+        "image": null,
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Standard"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Polymaker™ HT-PLA Pro",
+        "material": "PLA",
+        "image": "images/filaments/polymaker_polymaker_ht_pla_pro.png",
+        "description": "Heat Ready. Impact Ready. Still PLA Polymaker™ HT-PLA Pro is a tough PLA for functional parts that need better durability in real-world use. It prints as easily as standard PLA and keeps its shape without load in warm environments. It is made for makers, engineers, and print farms that need real durability without added printing complexity. Won't sag up to 150 °C straight off the plate Polymaker™ HT-PLA Pro is designed to keep its shape in heat-exposed environments without load.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "HT PLA PRO",
+            "new",
+            "Polymaker"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
     }
 ]
