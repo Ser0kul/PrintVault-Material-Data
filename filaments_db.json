@@ -27511,6 +27511,53 @@
                 "retractionDistance": 0.8,
                 "retractionSpeed": 50
             }
+        },
+        "params": null
+    },
+    {
+        "brand": "Anycubic",
+        "name": "Purge Chute Mechanism",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_purge_chute_mechanism.png",
+        "description": "Product Specifications Package Dimensions Weight Compatible Replacement Guide 105*96*61mm 104g Kobra 3 Kobra 3 Combo Kobra 3 V2 Kobra 3 V2 Combo Purge Wiper Replacement Guide 105*96*61mm 68g Kobra X Kobra X Combo Kobra 4 Kobra 4 Combo Material Throwing Assembly Replacement Guide",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "for fdm legacy models",
+            "For FDM Series",
+            "Google feed",
+            "kobra 3 v2 acc",
+            "kobra 4 acc"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
         }
     }
 ]
