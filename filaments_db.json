@@ -27560,5 +27560,49 @@
             }
         },
         "params": null
+    },
+    {
+        "brand": "Anycubic",
+        "name": "ACE 2 Pro Buffer Mechanism",
+        "material": "Standard",
+        "image": "images/filaments/anycubic_ace_2_pro_buffer_mechanism.jpg",
+        "description": "Product Specifications Compatible Weight Package Dimensions ACE 2 Pro 75g 118*96*47mm Replacement Guide Please learn about the replacements on Buffer Mechanism Replacement Guide .",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "3D Printer Parts",
+            "ace 2 pro acc",
+            "For FDM Series"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
     }
 ]
