@@ -15828,7 +15828,7 @@
         "brand": "Eryone",
         "name": "PLA Luminous Filament - 1.75mm±0.03mm (1kg)",
         "material": "PLA",
-        "image": "images/filaments/eryone_pla_luminous_filament_175mm003mm_1kg.png",
+        "image": "images/filaments/eryone_pla_luminous_filament_175mm003mm_1kg.jpg",
         "description": "Features： Close to burlywood color. Having wood-like texture, wood fiber. Specifications： Filament Diameter: 1.75mm Tolerance: ±0.03mm Printing Temperature: 190°C-220°C Heated Bed Temperature: 55-70°C Printing Speed: 30－60mm/s Showcase: FAQ 1.Q:How do I solve nozzle wear? A: Woody PLA contains wood powder and wood fiber. Long-term use will easily cause wear to nozzles with lower hardness such as brass nozzles, which will affect printing. It is recommended to use nozzles with higher hardness. 2.",
         "color": "#808080",
         "colorName": "Grey",
@@ -27435,6 +27435,7 @@
         "color": "#808080",
         "colorName": "Grey",
         "tags": [
+            "1st Purchase 10%OFF",
             "HT PLA PRO",
             "new",
             "Polymaker"
@@ -27573,6 +27574,52 @@
             "3D Printer Parts",
             "ace 2 pro acc",
             "For FDM Series"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        },
+        "params": null
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Polymaker™ ASA Filament",
+        "material": "ASA",
+        "image": "images/filaments/polymaker_polymaker_asa_filament.png",
+        "description": "Polymaker™ ASA Filament: UV Resistant, Outdoor-Ready Performance Superior Weather and UV Resistance Polymaker™ ASA is engineered as an advanced alternative to ABS, offering improved weather resistance and excellent UV stability. This makes it the ideal filament for outdoor applications where exposure to sunlight and the elements is a concern.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574343057465;39574343385145;39574343024697;39574343450681;39574342991929;39574342926393;39574342959161;39574343417913",
+            "established",
+            "Polymaker"
         ],
         "profiles": {
             "Default": {
