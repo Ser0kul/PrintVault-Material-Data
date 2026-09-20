@@ -560,6 +560,7 @@
         "tags": [
             "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
             "established",
+            "PLA",
             "Polymaker"
         ],
         "profiles": {
@@ -606,7 +607,8 @@
             "30BFCM",
             "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
             "established",
-            "Panchroma"
+            "Panchroma",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -791,7 +793,8 @@
             "30BFCM",
             "Els PW 18778:39574352855097;39574353215545;39574353051705;39574353379385;39574352953401;39574352494649;39574352756793;39574352330809;39574353281081;39574352625721;39574352363577;39574353150009;39574352396345;39574353477689",
             "established",
-            "Panchroma"
+            "Panchroma",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -929,7 +932,8 @@
         "colorName": "Grey",
         "tags": [
             "25BFCM",
-            "Panchroma"
+            "Panchroma",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -973,7 +977,8 @@
         "colorName": "Grey",
         "tags": [
             "25BFCM",
-            "Panchroma"
+            "Panchroma",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -1017,7 +1022,8 @@
         "colorName": "Grey",
         "tags": [
             "25BFCM",
-            "Panchroma"
+            "Panchroma",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -1061,7 +1067,8 @@
         "colorName": "Grey",
         "tags": [
             "30BFCM",
-            "established"
+            "established",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -1152,7 +1159,8 @@
         "colorName": "Grey",
         "tags": [
             "25BFCM",
-            "Panchroma"
+            "Panchroma",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -1198,7 +1206,8 @@
             "25BFCM",
             "Els PW 18778:39574352855097;39574353215545;39574353051705;39574353379385;39574352953401;39574352494649;39574352756793;39574352330809;39574353281081;39574352625721;39574352363577;39574353150009;39574352396345;39574353477689",
             "established",
-            "Panchroma"
+            "Panchroma",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -1242,7 +1251,8 @@
         "colorName": "Grey",
         "tags": [
             "25BFCM",
-            "Panchroma"
+            "Panchroma",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -1286,7 +1296,8 @@
         "colorName": "Grey",
         "tags": [
             "25BFCM",
-            "Panchroma"
+            "Panchroma",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -1332,7 +1343,8 @@
             "25BFCM",
             "Els PW 18778:39574352855097;39574353215545;39574353051705;39574353379385;39574352953401;39574352494649;39574352756793;39574352330809;39574353281081;39574352625721;39574352363577;39574353150009;39574352396345;39574353477689",
             "established",
-            "Panchroma"
+            "Panchroma",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -1518,7 +1530,8 @@
             "30BFCM",
             "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
             "established",
-            "Panchroma"
+            "Panchroma",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -1564,7 +1577,8 @@
             "25BFCM",
             "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
             "established",
-            "Panchroma"
+            "Panchroma",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -2249,6 +2263,7 @@
             "20BFCM",
             "Els PW 18778:39574346760249;39574346793017;39574346825785",
             "established",
+            "PLA",
             "Polymaker"
         ],
         "profiles": {
@@ -2295,6 +2310,7 @@
             "20BFCM",
             "Els PW 18778:39574346760249;39574346793017;39574346825785",
             "established",
+            "PLA",
             "Polymaker"
         ],
         "profiles": {
@@ -2386,7 +2402,8 @@
         "tags": [
             "20BFCM",
             "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
-            "established"
+            "established",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -2432,6 +2449,7 @@
             "30BFCM",
             "Els PW 18778:39574346760249;39574346793017;39574346825785",
             "established",
+            "PLA",
             "Polymaker"
         ],
         "profiles": {
@@ -2477,6 +2495,7 @@
         "tags": [
             "20BFCM",
             "established",
+            "PLA",
             "Polymaker"
         ],
         "profiles": {
@@ -2613,7 +2632,8 @@
         "colorName": "Grey",
         "tags": [
             "30BFCM",
-            "established"
+            "established",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -2842,6 +2862,7 @@
             "30BFCM",
             "Els PW 18778:39574352691257",
             "established",
+            "PLA",
             "Polymaker"
         ],
         "profiles": {
@@ -2978,6 +2999,7 @@
         "colorName": "Grey",
         "tags": [
             "30BFCM",
+            "PLA",
             "Polymaker"
         ],
         "profiles": {
@@ -3022,6 +3044,7 @@
         "colorName": "Grey",
         "tags": [
             "30BFCM",
+            "PLA",
             "Polymaker"
         ],
         "profiles": {
@@ -3114,6 +3137,7 @@
             "30BFCM",
             "Els PW 18778:39574349873209;39574349774905;39574349348921;39574349250617;39574349054009;39574349643833;39574349152313;39574349938745;39574349479993;39574349709369;39574349578297;39574348922937;39574348824633",
             "established",
+            "PLA",
             "Polymaker"
         ],
         "profiles": {
@@ -3344,6 +3368,7 @@
             "25BFCM",
             "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
             "established",
+            "PLA",
             "Polymaker"
         ],
         "profiles": {
@@ -15312,7 +15337,7 @@
         "brand": "Eryone",
         "name": "PLA Silk Dual-Color Filament - 1.75mm±0.03mm (1kg)",
         "material": "Silk PLA",
-        "image": "images/filaments/eryone_pla_silk_dual_color_filament_175mm003mm_1kg.jpg",
+        "image": "images/filaments/eryone_pla_silk_dual_color_filament_175mm003mm_1kg.png",
         "description": "Feature Neat Winding The PLA threads are arranged neatly, without the risk of knotting that making printing more comfortable. Premium Quality Material wire diameter 1.75mm±0.03mm, ensure smooth output line, vacuum packaging without bubbles, does not block nozzle, make the printing more smooth.",
         "color": "#808080",
         "colorName": "Grey",
@@ -22772,7 +22797,8 @@
         "tags": [
             "30BFCM",
             "new",
-            "Panchroma"
+            "Panchroma",
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -23396,6 +23422,7 @@
         "tags": [
             "30BFCM",
             "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
+            "PLA",
             "Polymaker"
         ],
         "profiles": {
@@ -23751,7 +23778,7 @@
             "Els PW 18778:39574352855097;39574353215545;39574353051705;39574353379385;39574352953401;39574352494649;39574352756793;39574352330809;39574353281081;39574352625721;39574352363577;39574353150009;39574352396345;39574353477689",
             "established",
             "Panchroma",
-            "polyterra"
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -23845,7 +23872,7 @@
             "Els PW 18778:39574352855097;39574353215545;39574353051705;39574353379385;39574352953401;39574352494649;39574352756793;39574352330809;39574353281081;39574352625721;39574352363577;39574353150009;39574352396345;39574353477689",
             "established",
             "Panchroma",
-            "polyterra"
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -23938,6 +23965,7 @@
             "20BFCM",
             "established",
             "Panchroma",
+            "PLA",
             "polyterra"
         ],
         "profiles": {
@@ -26781,7 +26809,7 @@
             "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
             "established",
             "Panchroma",
-            "polylite"
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -26828,7 +26856,7 @@
             "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
             "established",
             "Panchroma",
-            "polylite"
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -26875,7 +26903,7 @@
             "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
             "established",
             "Panchroma",
-            "polylite"
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -26922,7 +26950,7 @@
             "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
             "established",
             "Panchroma",
-            "polylite"
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -26969,7 +26997,7 @@
             "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
             "established",
             "Panchroma",
-            "polylite"
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -27016,7 +27044,7 @@
             "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
             "established",
             "Panchroma",
-            "polylite"
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -27063,7 +27091,7 @@
             "Els PW 18778:39574345515065;39574345449529;39574345482297;39574345416761;39574345383993;39574345351225;39574345285689;39574345318457;39574345252921;39574345580601;39574346137657;39574345547833;39574346170425",
             "established",
             "Panchroma",
-            "polylite"
+            "PLA"
         ],
         "profiles": {
             "Default": {
@@ -27422,6 +27450,7 @@
             "1st Purchase 10%OFF",
             "HT PLA PRO",
             "new",
+            "PLA",
             "Polymaker"
         ],
         "profiles": {
@@ -27460,7 +27489,7 @@
         "brand": "Creality",
         "name": "🔥Limited Time Offer\nSPARKX i7\n💥4 FREE Filament Spools",
         "material": "Standard",
-        "image": "images/filaments/creality_limited_time_offer_sparkx_i7_4_free_filament_spools.webp",
+        "image": "images/filaments/creality_limited_time_offer_sparkx_i7_4_free_filament_spools.png",
         "description": null,
         "color": "#808080",
         "colorName": "Grey",
@@ -27725,5 +27754,89 @@
             }
         },
         "params": null
+    },
+    {
+        "brand": "Creality",
+        "name": "Space Pi V2 Plus",
+        "material": "Standard",
+        "image": "images/filaments/creality_space_pi_v2_plus.webp",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Standard"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Creality",
+        "name": "Space Pi V2",
+        "material": "Standard",
+        "image": "images/filaments/creality_space_pi_v2.webp",
+        "description": null,
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "Standard"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
     }
 ]
