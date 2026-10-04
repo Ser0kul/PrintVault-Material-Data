@@ -22798,7 +22798,8 @@
             "30BFCM",
             "new",
             "Panchroma",
-            "PLA"
+            "PLA",
+            "Spool + Refill"
         ],
         "profiles": {
             "Default": {
@@ -27489,7 +27490,7 @@
         "brand": "Creality",
         "name": "🔥Limited Time Offer\nSPARKX i7\n💥4 FREE Filament Spools",
         "material": "Standard",
-        "image": "images/filaments/creality_limited_time_offer_sparkx_i7_4_free_filament_spools.png",
+        "image": "images/filaments/creality_limited_time_offer_sparkx_i7_4_free_filament_spools.webp",
         "description": null,
         "color": "#808080",
         "colorName": "Grey",
@@ -27840,5 +27841,589 @@
             }
         },
         "params": null
+    },
+    {
+        "brand": "Polymaker",
+        "name": "Fiberon™ PETG-ESD",
+        "material": "PETG",
+        "image": "images/filaments/polymaker_fiberon_petg_esd.png",
+        "description": "Fiberon™ PETG-ESD: ESD-Safe PETG for Electronics Applications (Formerly PolyMax™ PETG-ESD) Electrostatic Discharge (ESD) Protection Fiberon™ PETG-ESD is specifically engineered to provide reliable electrostatic discharge (ESD) safety, making it an excellent choice for 3D printing parts used in electronics manufacturing, assembly, and handling. This property helps protect sensitive electronic components from static electricity damage during production and use.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574348234809;39574348267577",
+            "Fiberon",
+            "polymax"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 240,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 245,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 235,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 250,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "PolyDissolve™ S1 (PVA)",
+        "material": "Standard",
+        "image": "images/filaments/polymaker_polydissolve_s1_pva.png",
+        "description": "PolyDissolve™ S1: Water-Soluble Support for Complex 3D Prints PVA-Based, Water Dissolvable Support PolyDissolve™ S1 is a PVA-based filament engineered to provide water-soluble support for PLA, TPU, PVB, and Nylon-based filaments. It forms a perfect interface with these materials, offering strong support during printing and dissolving cleanly in water for easy post-processing.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "20BFCM",
+            "Els PW 18778:39574341025849",
+            "established",
+            "Polymaker"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "PolyFlex™ TPU90",
+        "material": "TPU",
+        "image": "images/filaments/polymaker_polyflex_tpu90.png",
+        "description": "PolyFlex™ TPU90: Ultra-Soft, Flexible, and Fast-Printing TPU Engineered for Superior Flexibility PolyFlex™ TPU90, developed from Covestro’s Addigy® family, is a thermoplastic polyurethane (TPU) filament designed to deliver outstanding flexibility without sacrificing printing speed. Ultra-Soft Shore Hardness With a shore hardness of just 90A, PolyFlex™ TPU90 is exceptionally soft and highly flexible—making it ideal for applications that require a gentle touch and high elasticity.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574341353529;39574341582905;39574341451833;39574341517369;39574341419065",
+            "established",
+            "Polymaker"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "PolyFlex™ TPU95",
+        "material": "TPU",
+        "image": "images/filaments/polymaker_polyflex_tpu95.png",
+        "description": "PolyFlex™ TPU95: Versatile, Flexible, and Printer-Friendly TPU Designed for Broad Compatibility PolyFlex™ TPU95 is a thermoplastic polyurethane (TPU) filament engineered to work seamlessly with most desktop 3D printers, making flexible printing accessible to a wide range of users. Balanced Flexibility and Strength With a shore hardness of 95A, PolyFlex™ TPU95 offers a perfect balance between flexibility and ease of handling.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574341746745;39574341976121;39574341812281;39574341910585;39574342041657;39574341877817",
+            "established",
+            "Polymaker"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "PolyFlex™ TPU95-HF",
+        "material": "TPU",
+        "image": "images/filaments/polymaker_polyflex_tpu95_hf.png",
+        "description": "PolyFlex™ TPU95-HF: High-Flow, High-Speed Flexible Printing Engineered for High-Speed Performance PolyFlex™ TPU95-HF, developed from Covestro’s Addigy® family, is a thermoplastic polyurethane (TPU) filament designed with high flow properties. This enables significantly faster print speeds compared to standard flexible materials.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574341943353;39574342074425;39574342008889",
+            "established",
+            "Polymaker"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "PolyLite™ ABS",
+        "material": "ABS",
+        "image": "images/filaments/polymaker_polylite_abs.png",
+        "description": "PolyLite™ ABS: Low-Odor, Heat Resistant, and High Performance Advanced ABS Resin for Better Printing PolyLite™ ABS is formulated with a specialty bulk-polymerized ABS resin, featuring significantly lower volatile content than traditional ABS. This results in a cleaner, safer printing experience with minimal odor, making it more pleasant to use in any workspace.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "25BFCM",
+            "Els PW 18778:39574342303801;39574342271033;39574342238265;39574342139961;39574342107193;39574342172729;39574342205497;39574342402105;39574342369337;39574342336569",
+            "established",
+            "Polymaker"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "PolyLite™ Galaxy ABS",
+        "material": "ABS",
+        "image": "images/filaments/polymaker_polylite_galaxy_abs.png",
+        "description": "PolyLite™ ABS: Low-Odor, Heat Resistant, and High Performance Advanced ABS Resin for Better Printing PolyLite™ ABS is formulated with a specialty bulk-polymerized ABS resin, featuring significantly lower volatile content than traditional ABS. This results in a cleaner, safer printing experience with minimal odor, making it more pleasant to use in any workspace.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574342303801;39574342271033;39574342238265;39574342139961;39574342107193;39574342172729;39574342205497;39574342402105;39574342369337;39574342336569",
+            "established",
+            "Polymaker"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "PolyLite™ LW-PLA",
+        "material": "PLA",
+        "image": "images/filaments/polymaker_polylite_lw_pla.png",
+        "description": "PolyLite™ LW-PLA: Ultra-Lightweight Prints, Consistent Performance Innovative Pre-Foamed Technology Discover PolyLite™ LW-PLA - a pre-foamed PLA filament designed for projects where weight matters most. Unlike active foaming filaments, PolyLite™ LW-PLA is foamed during manufacturing, ensuring a consistently low density without the need to adjust extrusion temperatures.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "established",
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 210,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 215,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 205,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 220,
+                "bedTemp": 60,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "PolyLite™ Metallic ABS",
+        "material": "ABS",
+        "image": "images/filaments/polymaker_polylite_metallic_abs.png",
+        "description": "PolyLite™ ABS: Low-Odor, Heat Resistant, and High Performance Advanced ABS Resin for Better Printing PolyLite™ ABS is formulated with a specialty bulk-polymerized ABS resin, featuring significantly lower volatile content than traditional ABS. This results in a cleaner, safer printing experience with minimal odor, making it more pleasant to use in any workspace.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "25BFCM",
+            "Els PW 18778:39574342303801;39574342271033;39574342238265;39574342139961;39574342107193;39574342172729;39574342205497;39574342402105;39574342369337;39574342336569",
+            "established",
+            "Polymaker"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "PolyLite™ Neon ABS",
+        "material": "ABS",
+        "image": "images/filaments/polymaker_polylite_neon_abs.png",
+        "description": "PolyLite™ ABS: Low-Odor, Heat Resistant, and High Performance Advanced ABS Resin for Better Printing PolyLite™ ABS is formulated with a specialty bulk-polymerized ABS resin, featuring significantly lower volatile content than traditional ABS. This results in a cleaner, safer printing experience with minimal odor, making it more pleasant to use in any workspace.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574342303801;39574342271033;39574342238265;39574342139961;39574342107193;39574342172729;39574342205497;39574342402105;39574342369337;39574342336569",
+            "established",
+            "Polymaker"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "PolyMax™ PC-FR",
+        "material": "Standard",
+        "image": "images/filaments/polymaker_polymax_pc_fr.png",
+        "description": "PolyMax™ PC-FR: Flame Retardant, High-Performance Polycarbonate Advanced Flame Retardancy PolyMax™ PC-FR is formulated with Covestro’s Makrolon® polycarbonate, achieving V0 performance in the UL94 flame retardancy test. This makes it a top choice for applications where fire safety is critical.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574348070969;39574348103737",
+            "established",
+            "Polymaker"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "PolyMax™ PETG",
+        "material": "PETG",
+        "image": "images/filaments/polymaker_polymax_petg.png",
+        "description": "PolyMax™ PETG: Next-Level Toughness and Versatility Engineered for demanding applications, PolyMax™ PETG outperforms standard PETG filaments with exceptional mechanical strength and resilience. Superior Toughness and Impact Resistance Building on PETG’s renowned chemical resistance, PolyMax™ PETG delivers significantly greater fracture toughness than PolyLite™ PETG.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574348234809;39574348267577",
+            "established",
+            "Polymaker"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 240,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 245,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 235,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 250,
+                "bedTemp": 80,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Polymaker",
+        "name": "PolyMide™ CoPA",
+        "material": "Standard",
+        "image": "images/filaments/polymaker_polymide_copa.png",
+        "description": "PolyMide™ CoPA: High-Performance Nylon Copolymer Advanced Copolymer Formulation PolyMide™ CoPA is made from a copolymer blend of Nylon 6 and Nylon 6,6, engineered to deliver a superior balance of mechanical properties for demanding applications. Exceptional Strength and Toughness This filament combines outstanding strength and toughness, making it ideal for functional parts that require durability and impact resistance.",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "30BFCM",
+            "Els PW 18778:39574349807673",
+            "established",
+            "Polymaker"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
     }
 ]
