@@ -28481,5 +28481,235 @@
             }
         },
         "params": null
+    },
+    {
+        "brand": "Hatchbox",
+        "name": "BLACK PLA MAX Silk Filament – 1.75mm, 1KG Spool",
+        "material": "Silk PLA",
+        "image": "images/filaments/hatchbox_black_pla_max_silk_filament_175mm_1kg_spool.jpg",
+        "description": "Made in the USA Black silk PLA filament with a smooth, glossy shine 1.75mm diameter – 1 kg (2.20 lbs) spool Dimensional accuracy: ±0.03mm Recommended nozzle temperature: 205–225°C (401–437°F) AMS-compatible spool Precision wound for smooth, consistent feeding Vacuum sealed with desiccant to help protect against moisture Compatible with most FDM 3D printers Ideal for vases, figurines, cosplay props, and decorative prints PLA MAX Silk – American-Made Filament with a Brilliant Finish Give your...",
+        "color": "#000000",
+        "colorName": "Black",
+        "tags": [
+            "1.75",
+            "GOLD",
+            "MAX-SILK",
+            "New Arrival",
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Hatchbox",
+        "name": "BLUE PLA MAX Silk Filament – 1.75mm, 1KG Spool",
+        "material": "Silk PLA",
+        "image": "images/filaments/hatchbox_blue_pla_max_silk_filament_175mm_1kg_spool.jpg",
+        "description": "Made in the USA Blue silk PLA filament with a smooth, glossy shine 1.75mm diameter – 1 kg (2.20 lbs) spool Dimensional accuracy: ±0.03mm Recommended nozzle temperature: 205–225°C (401–437°F) AMS-compatible spool Precision wound for smooth, consistent feeding Vacuum sealed with desiccant to help protect against moisture Compatible with most FDM 3D printers Ideal for vases, figurines, cosplay props, and decorative prints PLA MAX Silk – American-Made Filament with a Brilliant Finish Give your next...",
+        "color": "#3b82f6",
+        "colorName": "Blue",
+        "tags": [
+            "1.75",
+            "GOLD",
+            "MAX-SILK",
+            "New Arrival",
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Hatchbox",
+        "name": "BRONZE PLA MAX Silk Filament – 1.75mm, 1KG Spool",
+        "material": "Silk PLA",
+        "image": "images/filaments/hatchbox_bronze_pla_max_silk_filament_175mm_1kg_spool.jpg",
+        "description": "Made in the USA Bronze silk PLA filament with a smooth, glossy shine 1.75mm diameter – 1 kg (2.20 lbs) spool Dimensional accuracy: ±0.03mm Recommended nozzle temperature: 205–225°C (401–437°F) AMS-compatible spool Precision wound for smooth, consistent feeding Vacuum sealed with desiccant to help protect against moisture Compatible with most FDM 3D printers Ideal for vases, figurines, cosplay props, and decorative prints PLA MAX Silk – American-Made Filament with a Brilliant Finish Give your...",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "1.75",
+            "GOLD",
+            "MAX-SILK",
+            "New Arrival",
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Hatchbox",
+        "name": "GOLD PLA MAX Silk Filament – 1.75mm, 1KG Spool",
+        "material": "Silk PLA",
+        "image": "images/filaments/hatchbox_gold_pla_max_silk_filament_175mm_1kg_spool.jpg",
+        "description": "Made in the USA Gold silk PLA filament with a smooth, glossy shine 1.75mm diameter – 1 kg (2.20 lbs) spool Dimensional accuracy: ±0.03mm Recommended nozzle temperature: 205–225°C (401–437°F) AMS-compatible spool Precision wound for smooth, consistent feeding Vacuum sealed with desiccant to help protect against moisture Compatible with most FDM 3D printers Ideal for vases, figurines, cosplay props, and decorative prints PLA MAX Silk – American-Made Filament with a Brilliant Finish Give your next...",
+        "color": "#ffd700",
+        "colorName": "Gold",
+        "tags": [
+            "1.75",
+            "GOLD",
+            "MAX-SILK",
+            "New Arrival",
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
+    },
+    {
+        "brand": "Hatchbox",
+        "name": "GRAY PLA MAX Silk Filament – 1.75mm, 1KG Spool",
+        "material": "Silk PLA",
+        "image": "images/filaments/hatchbox_gray_pla_max_silk_filament_175mm_1kg_spool.jpg",
+        "description": "Made in the USA Gray silk PLA filament with a smooth, glossy shine 1.75mm diameter – 1 kg (2.20 lbs) spool Dimensional accuracy: ±0.03mm Recommended nozzle temperature: 205–225°C (401–437°F) AMS-compatible spool Precision wound for smooth, consistent feeding Vacuum sealed with desiccant to help protect against moisture Compatible with most FDM 3D printers Ideal for vases, figurines, cosplay props, and decorative prints PLA MAX Silk – American-Made Filament with a Brilliant Finish Give your next...",
+        "color": "#808080",
+        "colorName": "Grey",
+        "tags": [
+            "1.75",
+            "GOLD",
+            "MAX-SILK",
+            "New Arrival",
+            "PLA"
+        ],
+        "profiles": {
+            "Default": {
+                "printTemp": 250,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.0,
+                "retractionSpeed": 40
+            },
+            "Fast / Draft (0.28mm)": {
+                "printTemp": 255,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 1.2,
+                "retractionSpeed": 45
+            },
+            "Fine Detail (0.12mm)": {
+                "printTemp": 245,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 35
+            },
+            "Bambu Lab X1C / P1S": {
+                "printTemp": 260,
+                "bedTemp": 100,
+                "fanSpeed": 100,
+                "retractionDistance": 0.8,
+                "retractionSpeed": 50
+            }
+        }
     }
 ]
